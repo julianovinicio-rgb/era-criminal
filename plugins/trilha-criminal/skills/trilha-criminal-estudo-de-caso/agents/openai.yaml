@@ -1,0 +1,13 @@
+interface:
+  display_name: Trilha Criminal Estudo de Caso
+  short_description: Provas, nulidades e estratégia com revisão adversarial
+  default_prompt: Use $trilha-criminal-estudo-de-caso para estudar os autos de [cliente],
+    com foco em [objetivo], e entregue o relatório com fontes, cobertura, provas,
+    possíveis nulidades, revisão adversarial e providências.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - "CHAT"
+  - "CODEX"

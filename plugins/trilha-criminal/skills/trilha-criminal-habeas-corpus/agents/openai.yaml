@@ -1,0 +1,6 @@
+interface:
+  display_name: "Trilha Criminal Habeas Corpus"
+  short_description: "HC com pesquisa atual e confronto literal da decisão"
+  default_prompt: "Use $trilha-criminal-habeas-corpus para analisar o constrangimento, pesquisar o entendimento atual e executar o trabalho autorizado com base nos documentos do paciente."
+policy:
+  allow_implicit_invocation: true

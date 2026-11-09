@@ -1,0 +1,50 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "trilha-criminal",
+  "version": "0.4.0",
+  "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus e recursos no STJ e no STF com fontes rastreáveis.",
+  "author": {
+    "name": "Juliano Negreiros"
+  },
+  "license": "Proprietary",
+  "keywords": [
+    "trilha-criminal",
+    "defesa-criminal",
+    "estudo-de-caso",
+    "flagrante",
+    "audiencia-de-custodia",
+    "pecas-defensivas",
+    "audiencia",
+    "recurso-de-apelacao",
+    "habeas-corpus",
+    "recursos-tribunais-superiores"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Trilha Criminal",
+        "logo": "./assets/trilha-logo-v024.png",
+        "logoDark": "./assets/trilha-logo-v024.png",
+        "composerIcon": "./assets/trilha-logo-v024.png",
+        "composerIconDark": "./assets/trilha-logo-v024.png",
+        "shortDescription": "Estudo, custódia, peças, audiência, recursos e HC",
+        "longDescription": "Método de trabalho defensivo criminal com análise individualizada, fontes rastreáveis, conferência legislativa na própria execução e revisão estratégica. Reúne sete habilidades autônomas: Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Habeas Corpus e Recursos nos Tribunais Superiores.",
+        "developerName": "Juliano Negreiros",
+        "category": "Productivity",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "defaultPrompt": [
+          "Estude os documentos deste processo. Meu cliente é [nome] e meu objetivo é [objetivo].",
+          "Meu cliente [nome] foi preso em flagrante. Faça a triagem do auto e prepare o roteiro da audiência de custódia.",
+          "Planeje a peça defensiva para [objetivo], sem redigir ainda.",
+          "Redija a peça defensiva solicitada com base nos documentos deste caso.",
+          "Prepare a audiência de instrução de [cliente], com perguntas por depoente e cenários de alegações finais orais.",
+          "Examine a sentença e planeje a apelação criminal de [cliente], com análise da prova, dosimetria e pedidos, sem redigir ainda.",
+          "Identifique o recurso cabível e o prazo contra esta decisão do STJ ou do STF no caso de [cliente], com admissibilidade e fontes conferidas."
+        ]
+      }
+    }
+  }
+}

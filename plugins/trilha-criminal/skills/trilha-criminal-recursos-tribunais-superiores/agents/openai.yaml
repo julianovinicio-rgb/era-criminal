@@ -1,0 +1,6 @@
+interface:
+  display_name: "Trilha Criminal Recursos nos Tribunais Superiores"
+  short_description: "REsp, RE, agravos e embargos no STJ e no STF com prazo conferido"
+  default_prompt: "Use $trilha-criminal-recursos-tribunais-superiores para identificar o recurso cabível e o prazo contra a decisão de [cliente] no STJ ou no STF, conferir a admissibilidade e executar o trabalho que eu indicar."
+policy:
+  allow_implicit_invocation: true

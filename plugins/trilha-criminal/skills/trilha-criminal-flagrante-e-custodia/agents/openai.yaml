@@ -1,0 +1,6 @@
+interface:
+  display_name: "Trilha Criminal Flagrante e Custódia"
+  short_description: "Triagem do flagrante, custódia e primeira peça de liberdade"
+  default_prompt: "Use $trilha-criminal-flagrante-e-custodia para triar o auto de prisão em flagrante de [cliente], preparar o roteiro da audiência de custódia e a peça de liberdade, indicando o que não foi conferido."
+policy:
+  allow_implicit_invocation: true

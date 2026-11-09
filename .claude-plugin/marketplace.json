@@ -1,0 +1,22 @@
+{
+  "name": "era-criminal",
+  "owner": {
+    "name": "Juliano Negreiros"
+  },
+  "metadata": {
+    "description": "Plugins da comunidade Era Criminal para atuação defensiva criminal."
+  },
+  "plugins": [
+    {
+      "name": "trilha-criminal",
+      "source": "./plugins/trilha-criminal",
+      "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus e recursos no STJ e no STF com fontes rastreáveis.",
+      "version": "0.4.0",
+      "author": {
+        "name": "Juliano Negreiros"
+      },
+      "license": "Proprietary",
+      "keywords": ["defesa-criminal", "habeas-corpus", "audiencia-de-custodia", "recursos-tribunais-superiores"]
+    }
+  ]
+}

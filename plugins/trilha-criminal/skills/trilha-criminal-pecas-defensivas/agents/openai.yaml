@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trilha Criminal Peças Defensivas"
+  short_description: "Peças criminais com análise e interpretação defensiva"
+  default_prompt: "Use $trilha-criminal-pecas-defensivas para elaborar a peça defensiva solicitada com base nos documentos deste caso."
