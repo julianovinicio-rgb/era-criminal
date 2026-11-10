@@ -47,6 +47,7 @@ Estes pontos são regras abstratas, conferidas a cada execução nas fontes indi
 | [Redação por espécie](references/redacao-por-especie.md) | Estrutura e conteúdo de cada recurso ou incidente |
 | [Regimentos e fontes](references/regimentos-e-fontes.md) | Localização das normas, regimentos e bases de temas e precedentes |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 
 ## Fluxo de trabalho
 

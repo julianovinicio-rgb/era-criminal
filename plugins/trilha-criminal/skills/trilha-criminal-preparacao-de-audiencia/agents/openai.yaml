@@ -2,3 +2,5 @@ interface:
   display_name: "Trilha Criminal Preparação de Audiência"
   short_description: "Estratégia de audiência e alegações finais orais"
   default_prompt: "Use $trilha-criminal-preparacao-de-audiencia para preparar a audiência deste caso, incluindo cenários de alegações finais orais e atualização conforme a prova produzida."
+policy:
+  allow_implicit_invocation: true

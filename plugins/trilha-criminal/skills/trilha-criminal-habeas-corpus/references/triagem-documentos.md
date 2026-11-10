@@ -18,7 +18,7 @@ Não exija todos os autos por rotina. A suficiência documental depende da tese.
 
 ## Cobertura e autoria
 
-Mantenha um registro proporcional: documento/arquivo, data, ID ou movimento confirmado, página do PDF, folha interna quando diferente, cobertura e utilidade. Classifique como examinado, parcialmente examinado, mencionado não examinado ou indisponível.
+Mantenha um registro proporcional: documento/arquivo, data, identificador do sistema confirmado, página do arquivo quando útil ao registro interno, cobertura e utilidade, conforme [Localização de documentos](localizacao-de-documentos.md). Classifique como examinado, parcialmente examinado, mencionado não examinado ou indisponível.
 
 Diferencie fato documentado, narrativa policial, versão defensiva, relato de terceiros, elemento informativo, prova judicial, inferência e fundamento do juízo. A mera reprodução de uma narrativa em vários documentos não cria fontes independentes. Um relatório navega; o original sustenta a afirmação decisiva.
 

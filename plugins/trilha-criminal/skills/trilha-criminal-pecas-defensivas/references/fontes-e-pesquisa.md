@@ -4,7 +4,7 @@
 
 Defina quais fontes sustentam a peça e qual é o último ato examinado. Um estudo anterior serve de mapa: confronte com os originais as afirmações decisivas, citações e dados que serão usados. Se o original estiver indisponível, atribua a informação ao relatório e declare a limitação ao advogado. Não finja essa conferência.
 
-Registre os localizadores existentes: arquivo, documento/ID/movimento confirmado, página do PDF e, se diferente, folha interna. Em Word sem paginação estável, use seção e trecho identificável, sem inventar página. Em mídia, confira a minutagem; transcrição automática ou resumo não prova identidade do falante nem literalidade da fala. Aspas exigem conferência do trecho literal, inclusive negativas, perguntas e ressalvas.
+Registre os localizadores existentes conforme [Localização de documentos](localizacao-de-documentos.md): arquivo, identificador do sistema confirmado e, no registro interno, página do arquivo quando útil. Na peça, use apenas o identificador do sistema. Em Word sem paginação estável, use seção e trecho identificável, sem inventar página. Em mídia, confira a minutagem; transcrição automática ou resumo não prova identidade do falante nem literalidade da fala. Aspas exigem conferência do trecho literal, inclusive negativas, perguntas e ressalvas.
 
 Classifique o conteúdo, sem carregar a peça com etiquetas: alegação acusatória, versão defensiva, percepção direta, relato de terceiros, elemento informativo, prova produzida judicialmente, inferência, fundamento da decisão ou lacuna. A categoria depende do conteúdo e da origem do conhecimento, não apenas do título do documento ou da profissão do declarante.
 

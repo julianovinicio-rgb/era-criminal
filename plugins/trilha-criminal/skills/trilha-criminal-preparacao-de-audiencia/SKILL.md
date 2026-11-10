@@ -44,6 +44,7 @@ Leia apenas as referências necessárias ao modo e ao problema concretos.
 | [Alegações finais orais](references/alegacoes-finais-orais.md) | Estrutura condicional prévia, revisão da estratégia após prova e preparação de roteiro ou fala |
 | [Entregas e revisão](references/entregas-e-revisao.md) | Organização e conferência final, passagem para memoriais e continuidade |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 
 ## 1. Delimitar a audiência e a cobertura
 

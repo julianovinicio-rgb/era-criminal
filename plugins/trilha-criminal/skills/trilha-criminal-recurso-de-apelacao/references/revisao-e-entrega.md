@@ -12,7 +12,7 @@ Verifique:
 - Enfrentamento dos fundamentos autônomos desfavoráveis, sem alegações fictícias de omissão.
 - Correspondência entre transcrições e originais, referências e localizações.
 - Pertinência e atualização dos precedentes realmente usados; com prazo curto, mantenha na peça apenas o precedente efetivamente verificado e retire o restante.
-- Referências a documentos dos autos apenas pelo movimento, sem número de página do PDF.
+- Referências a documentos dos autos, na peça, apenas pelo identificador do sistema, sem página do arquivo PDF, conforme [Localização de documentos](localizacao-de-documentos.md).
 - Correspondência de cada rótulo e referência de precedente ou súmula com o destino efetivamente aberto do link final, conforme [Admissibilidade e fontes](admissibilidade-e-fontes.md); diferencie divergência confirmada, fonte indireta e acesso pendente.
 - Coerência entre tese principal, alternativas e pedidos por recorrente.
 - Dosimetria e efeitos em cada cenário, sem contas aproximadas ocultas.

@@ -1,6 +1,6 @@
 # Triagem do auto de prisão em flagrante
 
-Leia antes de qualquer roteiro ou peça. O objetivo é localizar, em poucos minutos, o que torna a prisão ilegal e o que apenas enfraquece a necessidade da custódia. Toda conclusão indica a peça e a página ou o ID em que se apoia. Os dispositivos citados abaixo são localizadores e devem ser conferidos conforme a [Conferência legislativa](conferencia-legislativa.md).
+Leia antes de qualquer roteiro ou peça. O objetivo é localizar, em poucos minutos, o que torna a prisão ilegal e o que apenas enfraquece a necessidade da custódia. Toda conclusão indica a peça e o identificador ou a página em que se apoia, conforme [Localização de documentos](localizacao-de-documentos.md). Os dispositivos citados abaixo são localizadores e devem ser conferidos conforme a [Conferência legislativa](conferencia-legislativa.md).
 
 ## Documentos a localizar
 

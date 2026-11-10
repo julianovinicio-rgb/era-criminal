@@ -36,6 +36,7 @@ Leia as referências obrigatórias nos momentos indicados. Consulte somente as s
 | [Estratégia e revisão](references/revisao-estrategica.md) | Hierarquização dos caminhos e revisão antes de toda entrega; novamente na peça solicitada |
 | [Modelo de relatório](references/modelo-relatorio.md) | Organização e conferência da entrega, com dez seções |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 
 ## 1. Delimitar, verificar urgência e controlar leitura
 
@@ -53,7 +54,7 @@ Classifique, conforme o conteúdo: alegação acusatória; narrativa policial; r
 
 Diferencie o veículo e a origem do conhecimento. Uma peça pode apenas reproduzir outra; um registro policial pode reunir percepção direta, relato alheio e inferência. A afirmação judicial é uma conclusão da decisão, cuja base deve ser examinada quando acessível.
 
-Vincule cada afirmação decisiva a arquivo, documento/movimento/ID confirmado e página do PDF, separando folha interna. Não crie identificadores. Em mídia, use minutagens verificadas e sinalize incerteza de locutor/transcrição. Fonte mencionada, sem íntegra disponível, permanece não examinada.
+Vincule cada afirmação decisiva a arquivo e identificador do sistema confirmado, conforme [Localização de documentos](references/localizacao-de-documentos.md); no relatório, acrescente a página do arquivo quando ajudar a localizar o trecho, sem confundi-la com a folha dos autos. Não crie identificadores. Em mídia, use minutagens verificadas e sinalize incerteza de locutor/transcrição. Fonte mencionada, sem íntegra disponível, permanece não examinada.
 
 Use aspas apenas em passagens literalmente conferidas, preservando perguntas, negativas e ressalvas. Declare no ponto afetado o dado faltante e o efeito sobre a conclusão.
 

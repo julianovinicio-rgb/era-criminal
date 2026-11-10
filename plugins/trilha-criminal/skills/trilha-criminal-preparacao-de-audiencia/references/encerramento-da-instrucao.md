@@ -16,7 +16,7 @@ Verifique questões cautelares concretas que possam demandar manifestação. Nã
 
 ## Escolher o caminho documentado
 
-No procedimento ordinário, consulte os arts. 402–404 do CPP na [fonte oficial](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-3689-3-outubro-1941-322206-normaatualizada-pe.html):
+No procedimento ordinário, consulte os arts. 402–404 do CPP na [fonte oficial](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm):
 
 | Situação confirmada | Consequência de trabalho |
 |---|---|

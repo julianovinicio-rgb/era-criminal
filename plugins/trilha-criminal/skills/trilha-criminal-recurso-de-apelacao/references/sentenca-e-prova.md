@@ -10,7 +10,7 @@ Não atribua omissão a argumento expressamente rejeitado. Nesse caso, confronte
 
 ## Confrontar fontes
 
-Em cada afirmação decisiva, registre o documento pelo movimento (mov. X.Y), sem número de página do PDF ou do arquivo; na mídia, movimento e minutagem. Relatório e transcrição automática não substituem conferência do original para citação decisiva. Se a mídia estiver indisponível, explicite o nível de verificação.
+Em cada afirmação decisiva, registre o documento pelo identificador do sistema, conforme [Localização de documentos](localizacao-de-documentos.md), sem página do arquivo no texto da peça; na mídia, identificador e minutagem. Relatório e transcrição automática não substituem conferência do original para citação decisiva. Se a mídia estiver indisponível, explicite o nível de verificação.
 
 Compare versões na investigação e em juízo sem recortes seletivos. Avalie a divergência pelo objeto: divergência sobre entrada no local, por exemplo fictício, não comprova automaticamente a conduta posterior imputada. Confira também trechos favoráveis e ressalvas na mesma fonte.
 

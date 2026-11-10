@@ -21,7 +21,7 @@ Avalie a melhor resposta adversa plausível para planejar reação. Identifique 
 
 ## Material de consulta
 
-Organize uma visão rápida com cliente, objetivo, pontos prioritários, referências decisivas e pedidos que possam precisar de decisão. Em seguida, disponha roteiros por pessoa e documentos para eventual confronto. Use localização verificável: arquivo, ID/movimento quando confirmado, página do PDF ou trecho de mídia conferido. Separe a folha interna da página do arquivo.
+Organize uma visão rápida com cliente, objetivo, pontos prioritários, referências decisivas e pedidos que possam precisar de decisão. Em seguida, disponha roteiros por pessoa e documentos para eventual confronto. Use localização verificável, conforme [Localização de documentos](localizacao-de-documentos.md): identificador do sistema confirmado, trecho de mídia conferido e, para uso do advogado, página do arquivo quando ajudar a achar o documento durante o ato. Separe a folha dos autos da página do arquivo.
 
 Tenha os documentos de confronto localizáveis, com contexto suficiente para preservar negativas, ressalvas e sequência. Não recorte frase para criar incompatibilidade aparente. Diferencie contradição material, mudança explicável de precisão, omissão e complementação.
 

@@ -17,7 +17,7 @@ Ao enfrentar uma decisão, transcreva sempre o trecho pertinente em itálico. Em
 
 O controle abrange também decisões anteriores efetivamente enfrentadas e citações curtas dentro de parágrafos. A simples referência histórica a um ato não exige transcrição; se houver crítica ao seu fundamento, aplique o mesmo padrão literal. Antes de transportar um erro antigo à peça, demonstre sua influência no título atual; sem essa ligação, mantenha o achado na nota interna quando útil.
 
-Confira o original e identifique órgão/autoridade, decisão, data e ID/movimento/página disponíveis. Não invente localizador para preencher um padrão. Distinga página do PDF de folha dos autos.
+Confira o original e identifique órgão/autoridade, decisão, data e identificador do sistema, conforme [Localização de documentos](localizacao-de-documentos.md). Não invente localizador para preencher um padrão. Distinga página do arquivo de folha dos autos.
 
 Preserve palavras, negativas, números, maiúsculas e minúsculas, pontuação e erros do original. Ajustes de espaços e quebras de linha só podem remover efeitos de extração sem mudar o texto. Não corrija o texto judicial silenciosamente nem adapte sua pontuação à preferência dos parágrafos autorais. Use supressão `[...]` somente quando conservar o sentido e o contexto; não una trechos distantes como fala contínua. Identifique grifo acrescentado e não diga que ele é original se não for.
 

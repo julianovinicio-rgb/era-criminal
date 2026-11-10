@@ -1,6 +1,6 @@
 # Trilha Criminal
 
-Versão 0.4.0, destinada a teste privado e à futura distribuição aos alunos da Trilha Criminal.
+Versão 0.4.1, destinada a teste privado e à futura distribuição aos alunos da Trilha Criminal.
 
 O plugin reúne sete habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
 
@@ -31,7 +31,11 @@ Preventiva decretada depois da custódia é tratada pelas habilidades de Habeas 
 
 ## Conferência legislativa
 
-Todas as habilidades têm o arquivo `references/conferencia-legislativa.md`, com conteúdo idêntico. Ele concentra a regra de conferência de artigos de lei: texto no portal oficial na versão compilada, acesso pelo navegador, análise da redação aplicável na data do fato e registro da data de conferência. Alterações futuras dessa regra devem ser feitas nesse arquivo em cada habilidade.
+Todas as habilidades têm o arquivo `references/conferencia-legislativa.md`, com conteúdo idêntico. Ele concentra a regra de conferência de artigos de lei: texto em fonte oficial na própria execução, com preferência pelo Planalto na versão compilada e, se ele não puder ser aberto, outra fonte oficial identificada; análise da redação aplicável na data do fato; e registro da fonte e da data na nota ao advogado, fora do texto destinado ao juízo. Alterações futuras dessa regra devem ser feitas nesse arquivo em cada habilidade.
+
+## Localização de documentos
+
+Todas as habilidades têm também o arquivo `references/localizacao-de-documentos.md`, com conteúdo idêntico. Ele define como indicar documentos, trechos e mídias dos autos: na peça, apenas o identificador do sistema de origem (movimento no Projudi, ID no PJe, evento no eproc, folha no e-SAJ e em autos físicos); em relatórios e notas ao advogado, o identificador e, quando útil, a página do arquivo rotulada como tal. A preferência expressa do usuário prevalece.
 
 ## Limites
 
@@ -53,3 +57,4 @@ Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do ti
 - **0.3.3:** acréscimos ao Habeas Corpus sobre resposta à orientação que dispensa a enumeração individual das medidas do art. 319; medidas protetivas e monitoração em violência doméstica; prisão mantida na pronúncia com RESE pendente; fase e data de precedentes e vigência de leis; dispensa de informações e vista obrigatória ao Ministério Público; e conferência de arquivos já editados pelo advogado.
 - **0.3.4:** versão de base desta atualização. O pacote base não traz registro das mudanças em relação à 0.3.3; descrição pendente de verificação pelo autor.
 - **0.4.0:** regra de conferência legislativa unificada em `references/conferencia-legislativa.md` em todas as habilidades, com análise da redação aplicável na data do fato, acesso pelo navegador e registro da data de conferência; links do CPP padronizados para a versão compilada; Peças Defensivas passa a incluir ataque por literalidade, estrutura de memorial de alegações finais e tabela de linguagem com limite de dois precedentes por tese; criação das habilidades Flagrante e Custódia e Recursos nos Tribunais Superiores; manifestos e README atualizados para sete habilidades.
+- **0.4.1:** correções de consistência, sem mudança de método. Conferência legislativa passa a admitir fonte oficial alternativa identificada e registra a conferência na nota ao advogado; convenção única de localização de documentos em todas as habilidades; links de legislação da skill de Audiência apontados para o Planalto; regimento do tribunal local generalizado no Habeas Corpus, com o TJAM como exemplo; logo reduzido. Detalhes em [CHANGELOG.md](CHANGELOG.md).

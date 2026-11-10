@@ -11,7 +11,7 @@
       "name": "trilha-criminal",
       "source": "./plugins/trilha-criminal",
       "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus e recursos no STJ e no STF com fontes rastreáveis.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "author": {
         "name": "Juliano Negreiros"
       },

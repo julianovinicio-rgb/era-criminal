@@ -31,6 +31,7 @@ Em revisão pontual, limite o exame ao necessário. Em razões integrais, examin
 | Redação, revisão de fluidez e organização | [Redação defensiva](references/redacao-defensiva.md) |
 | Conferência jurídica, documental e do arquivo final | [Revisão e entrega](references/revisao-e-entrega.md) |
 | Menção, citação, transcrição ou análise de artigo de lei brasileira | [Conferência legislativa](references/conferencia-legislativa.md) |
+| Indicação de documento, trecho ou mídia dos autos | [Localização de documentos](references/localizacao-de-documentos.md) |
 
 Consulte apenas os módulos necessários. Esta estrutura não obriga a produzir um relatório por módulo nem a carregar todos os módulos para ajustar um título.
 
@@ -60,7 +61,7 @@ Use a matriz apenas se facilitar o trabalho; não a inclua automaticamente na pe
 - Verifique legislação temporalmente aplicável e precedentes em fontes oficiais quando formular conclusões jurídicas. Citações de peças antigas não são pesquisa atual.
 - Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência.
 - Pedido subsidiário deve explicitar sua condição, preservando a tese principal. Nenhum pedido nasce apenas de um modelo.
-- Ao mencionar documento do processo, ao advogado ou na peça, identifique-o apenas pelo movimento (por exemplo, mov. 98.1); não informe o número da página do PDF lido nem a paginação do arquivo. Para mídias, use movimento e minutagem.
+- Ao mencionar documento do processo, siga [Localização de documentos](references/localizacao-de-documentos.md): na peça, apenas o identificador do sistema (por exemplo, mov. 98.1 no Projudi ou ID no PJe), sem página do arquivo PDF lido; para mídias, identificador e minutagem. Na nota ao advogado, a página do arquivo só aparece quando ajudar a localizar o trecho e rotulada como tal.
 - Transcrição revisada ou organizada não substitui o áudio ou vídeo para citação literal; sem conferência no original, informe a pendência ao advogado.
 - Preserve nomes, números, datas, valores, dados processuais e citações literais; divergências devem ser conferidas, não corrigidas por adivinhação.
 - Em revisão textual, preserve conteúdo, estratégia, teses e pedidos. Se houver problema jurídico fora do escopo, aponte-o separadamente.

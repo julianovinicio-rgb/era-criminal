@@ -34,7 +34,7 @@ Avalie o conjunto que restaria se a tese fosse acolhida. Uma prova descartada po
 
 Ao impugnar decisão judicial, construa cada ataque a partir do texto efetivamente decidido, em quatro movimentos:
 
-1. Transcreva literalmente apenas o trecho relevante, com indicação de fl. ou ID conferida no original. Preserve pontuação, negativas e ressalvas; marque supressões com `[...]` somente quando não alterarem o sentido.
+1. Transcreva literalmente apenas o trecho relevante, com o identificador do sistema conferido no original, conforme [Localização de documentos](localizacao-de-documentos.md). Preserve pontuação, negativas e ressalvas; marque supressões com `[...]` somente quando não alterarem o sentido.
 2. Identifique o vício do trecho: omissão, contradição, erro de direito, ausência de fundamentação idônea, fundamentação per relationem sem análise individualizada, error in procedendo ou error in judicando. Nomeie um vício por ataque, salvo quando dois vícios decorrerem da mesma passagem e levarem à mesma consequência.
 3. Demonstre tecnicamente o que a lei e a jurisprudência exigiam e o que a decisão fez. A lei segue a rotina de [Conferência legislativa](conferencia-legislativa.md), e a jurisprudência é pesquisada e conferida na própria execução, sem catálogo fixo de precedentes.
 4. Extraia a consequência jurídica e vincule-a ao pedido numerado correspondente.

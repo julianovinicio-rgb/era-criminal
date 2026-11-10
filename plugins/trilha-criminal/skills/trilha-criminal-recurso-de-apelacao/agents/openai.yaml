@@ -2,3 +2,5 @@ interface:
   display_name: "Trilha Criminal Recurso de Apelação"
   short_description: "Estratégia, redação e revisão de apelações criminais"
   default_prompt: "Use $trilha-criminal-recurso-de-apelacao para analisar a sentença e construir a apelação defensiva conforme o escopo que eu indicar."
+policy:
+  allow_implicit_invocation: true

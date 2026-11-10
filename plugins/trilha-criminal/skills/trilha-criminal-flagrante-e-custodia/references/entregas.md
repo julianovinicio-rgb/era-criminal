@@ -6,7 +6,7 @@ Toda entrega desta skill é curta, utilizável no próprio dia e indica o que n�
 
 | Achado | Fonte no APF | Classe | Consequência | Pendência |
 |---|---|---|---|---|
-| Fato observado, com horário quando houver | Peça e página ou ID | Vício que gera relaxamento, fragilidade para liberdade provisória ou irregularidade a registrar | Pedido ou providência | Documento faltante, horário não registrado ou norma não conferida |
+| Fato observado, com horário quando houver | Peça e identificador do sistema, ou página do arquivo quando não houver | Vício que gera relaxamento, fragilidade para liberdade provisória ou irregularidade a registrar | Pedido ou providência | Documento faltante, horário não registrado ou norma não conferida |
 
 Inclua somente achados com fonte. Questão que depende de documento não recebido entra como pendência, sem conclusão. Se nenhum vício que gere relaxamento for identificado no material recebido, diga isso com o alcance da leitura.
 

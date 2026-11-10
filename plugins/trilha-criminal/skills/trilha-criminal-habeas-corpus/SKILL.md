@@ -47,6 +47,7 @@ Não transforme redação em protocolo, envio a terceiros ou alteração de docu
 | [Tutela coletiva](references/tutela-coletiva.md) | HC coletivo ou aplicação de ordem coletiva a paciente individual. |
 | [Fontes de partida](references/fontes-de-partida.md) | Localização inicial das fontes oficiais, sempre seguida de conferência atual. |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira. |
+| [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos. |
 
 Leia apenas os módulos pertinentes; não transforme pedido pontual em auditoria integral nem carregue todos os módulos por rotina.
 

@@ -31,7 +31,7 @@ Finalize com pedidos individualizados e coerentes com o desenvolvimento. Concent
 O memorial é lido primeiro pelo assessor que minuta a sentença e depois pelo juiz que a assina. Organize o texto para que ambos localizem rapidamente a tese, a prova que a sustenta e o pedido, adaptando a sequência abaixo ao rito e ao caso:
 
 1. **Abertura:** até dois parágrafos com o réu, a imputação e o pedido principal.
-2. **Síntese dos fatos:** narrativa na perspectiva defensiva, com âncora probatória por ID ou fl. em cada fato relevante, sem adotar a terminologia acusatória como fato reconhecido.
+2. **Síntese dos fatos:** narrativa na perspectiva defensiva, com âncora probatória pelo identificador do sistema em cada fato relevante, conforme [Localização de documentos](../localizacao-de-documentos.md), sem adotar a terminologia acusatória como fato reconhecido.
 3. **Capítulos de tese:** do argumento mais forte para o mais fraco. Cada capítulo contém enunciado da tese, âncora probatória, fundamento legal conferido conforme a [Conferência legislativa](../conferencia-legislativa.md), fundamento jurisprudencial pesquisado e verificado na própria execução e conclusão do capítulo.
 4. **Ataque ao tipo penal:** exame elemento a elemento do tipo imputado, indicando, para cada elemento, a prova invocada pela acusação e o que ela efetivamente demonstra.
 5. **Teses subsidiárias:** dosimetria, regime, substituição e demais consequências, sempre depois do pedido principal e por hipótese expressa, sem admitir como fato o que o principal impugna.

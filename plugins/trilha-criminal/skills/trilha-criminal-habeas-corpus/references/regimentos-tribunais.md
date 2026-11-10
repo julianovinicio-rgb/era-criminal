@@ -1,4 +1,4 @@
-# Regimentos: TJAM, STJ e STF
+# Regimentos: tribunal local, STJ e STF
 
 ## Ficha obrigatória quando pertinente
 
@@ -6,7 +6,15 @@ Registre tribunal, documento normativo, versão/emendas abrangidas, data de cons
 
 Não confunda regra de distribuição com competência constitucional nem prioridade de tramitação com cabimento. Não importe prazo ou preparo do processo civil para HC criminal a partir de um dispositivo regimental genérico.
 
-## TJAM
+## Tribunal local
+
+Identifique o tribunal competente pelo caso, seja Tribunal de Justiça, Tribunal Regional Federal ou outro, e localize no portal oficial dele o regimento interno vigente, as emendas posteriores e os atos sobre distribuição e plantão. Leia no texto obtido os dispositivos sobre competência dos órgãos fracionários, prevenção, agravo interno ou regimental, liminar em HC, plantão e sustentação oral.
+
+Não transporte número de artigo, prazo ou regra do regimento de um tribunal para outro. Levante HCs e recursos anteriores relacionados, relator, órgão e desfecho, sem presumir prevenção apenas porque o paciente já teve processo no tribunal. Cabimento e prazo de impugnação contra indeferimento de liminar em HC variam entre tribunais e exigem verificação na disciplina e na jurisprudência locais. Se o regimento não puder ser obtido, registre a pendência e seu efeito sobre competência, prevenção e prazo.
+
+### Exemplo de ficha: TJAM
+
+O bloco abaixo registra a pesquisa de formação feita para o Tribunal de Justiça do Amazonas e mostra o nível de detalhe esperado. Aplique-o somente a processos desse tribunal, depois de nova conferência.
 
 Ponto de partida: Resolução 62/2023 e suas alterações, disponíveis no [portal de regimentos](https://www.tjam.jus.br/index.php/publicacoes-documentos/publicoes-portarias-doc/publicacoes/leis-regimentos-publicacoes/regimentos).
 

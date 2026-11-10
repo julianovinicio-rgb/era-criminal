@@ -11,8 +11,9 @@ Referência de formação: 20/10/2026. Este inventário não certifica vigência
 
 ## Regimentos
 
-- [TJAM, portal de regimentos](https://www.tjam.jus.br/index.php/publicacoes-documentos/publicoes-portarias-doc/publicacoes/leis-regimentos-publicacoes/regimentos).
-- [TJAM, consolidação identificada](https://www.tjam.jus.br/joomlatools-files/fileman-files/Resolu%C3%A7%C3%A3o%2062-2023_Regimento%20interno%20do%20TJAM_%28Consolidada%29.pdf): declara alterações até 2024; exige busca de atos posteriores.
+- Tribunal local: portal oficial do tribunal competente pelo caso, seção de regimento interno e atos normativos, localizado na execução.
+- Exemplo de tribunal local: [TJAM, portal de regimentos](https://www.tjam.jus.br/index.php/publicacoes-documentos/publicoes-portarias-doc/publicacoes/leis-regimentos-publicacoes/regimentos).
+- Exemplo de tribunal local: [TJAM, consolidação identificada](https://www.tjam.jus.br/joomlatools-files/fileman-files/Resolu%C3%A7%C3%A3o%2062-2023_Regimento%20interno%20do%20TJAM_%28Consolidada%29.pdf): declara alterações até 2024; exige busca de atos posteriores.
 - [STJ, portal do regimento](https://www.stj.jus.br/sites/portalp/Leis-e-normas/Regimento-Interno): use a edição integral disponível e confira emendas; acesso ao portal não equivale à leitura do PDF.
 - [STF, portal oficial](https://www.stf.jus.br/transparencia/), seção Regimento interno, e [consolidação vinculada pelo portal](https://api-atosnormativosprd.azurewebsites.net/api/normativo/apresentacao/consolidado/1737).
 

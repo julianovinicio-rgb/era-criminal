@@ -31,6 +31,7 @@ Fica fora do escopo a preventiva decretada ou mantida depois da custódia, que p
 | [Liberdade provisória inicial](references/liberdade-provisoria-inicial.md) | Minuta de relaxamento ou de liberdade provisória antes ou depois da custódia |
 | [Entregas](references/entregas.md) | Formato de toda entrega e indicação do que não foi conferido |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 
 ## 1. Identificar a situação
 

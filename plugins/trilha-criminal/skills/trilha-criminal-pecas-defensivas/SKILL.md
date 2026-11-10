@@ -38,6 +38,7 @@ Leia apenas o necessário ao trabalho, nos momentos indicados. Um pedido pontual
 | [Pedidos e subsidiariedade](references/pedidos-e-subsidiariedade.md) | Escolha de resultados, diligências, pedidos e alternativas |
 | [Revisão e entrega](references/revisao-e-entrega.md) | Fechamento de qualquer entrega, na extensão do escopo |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
+| [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
 
 Escolha a família e, dentro dela, a espécie e o momento processual. Combine módulos apenas quando houver questão concreta que o justifique.
 
