@@ -23,7 +23,7 @@ Consulte [Regimentos](regimentos-tribunais.md) para as questões de distribuiç�
 
 O CPP consultado contempla o modo de execução entre os critérios do art. 312, § 3º, e veda gravidade abstrata no § 4º. Essa distinção exige confronto individual, sem automatismo favorável ou desfavorável. Confira a redação e a incidência temporal novamente no caso.
 
-O [AgRg no HC 1.075.824/RS, Quinta Turma, rel. Ministro Reynaldo Soares da Fonseca, julgado em 19/03/2026, publicado em 24/03/2026](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=24%2F03%2F2026&num_registro=202600639925), teve inteiro teor examinado na formação da base. É ponto de pesquisa sobre fundamentação por remissão individualizada, gravidade concreta, inovação e HC substitutivo. Não prova adequação a outro caso nem permanência da orientação; confronte fatos e tratamento posterior.
+Os julgados examinados na formação da base estão em [Pistas de pesquisa](pistas-de-pesquisa.md), com data e prazo de validade.
 
 A [Recomendação CNJ 62/2020](https://atos.cnj.jus.br/atos/detalhar/3246.) não estabelece teto geral de 135 dias de prisão provisória. Seu art. 4º, I, c, trata de prioridade de reavaliação no contexto sanitário. Não a use como regra geral atual de excesso de prazo.
 

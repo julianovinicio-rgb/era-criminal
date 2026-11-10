@@ -30,8 +30,11 @@ Em revisão pontual, limite o exame ao necessário. Em razões integrais, examin
 | Dosimetria, consequências, cautelares e pedidos | [Pena e pedidos](references/pena-e-pedidos.md) |
 | Redação, revisão de fluidez e organização | [Redação defensiva](references/redacao-defensiva.md) |
 | Conferência jurídica, documental e do arquivo final | [Revisão e entrega](references/revisao-e-entrega.md) |
+| Sustentação oral no julgamento da apelação: cabimento, tempo, requerimento e roteiro | [Sustentação oral](references/sustentacao-oral.md) |
 | Menção, citação, transcrição ou análise de artigo de lei brasileira | [Conferência legislativa](references/conferencia-legislativa.md) |
 | Indicação de documento, trecho ou mídia dos autos | [Localização de documentos](references/localizacao-de-documentos.md) |
+| Autorização, sigilo, nota ao advogado, estados de entrega e linguagem | [Núcleo comum](references/nucleo-comum.md) |
+| Calibrar formato, proporção e tom antes de entregar, com exemplo fictício cujos fatos e conclusões não se copiam | [Exemplo de entrega](references/exemplo-de-entrega.md) |
 
 Consulte apenas os módulos necessários. Esta estrutura não obriga a produzir um relatório por módulo nem a carregar todos os módulos para ajustar um título.
 
@@ -57,7 +60,7 @@ Use a matriz apenas se facilitar o trabalho; não a inclua automaticamente na pe
 - A defesa deve ser firme e favorável ao cliente dentro do que as fontes sustentam. Avaliação interna de risco e justificativas editoriais ficam em nota ao advogado, sem concessões gratuitas no texto judicial.
 - Não confunda rejeição da versão defensiva com prova positiva da acusação, repetição de narrativa com corroboração independente ou compatibilidade com comprovação exclusiva.
 - Busca sem resultado permite dizer “não identificado no acervo examinado”; ausência absoluta exige cobertura suficiente. Informe documentos mencionados, mas não examinados.
-- Não transporte teses, nomes, penas, precedentes ou relações entre pessoas do caso que inspirou esta skill. A hipótese jurídica depende do processo atual.
+- Não transporte teses, nomes, penas, precedentes ou relações entre pessoas de casos anteriores, modelos ou exemplos. A hipótese jurídica depende do processo atual.
 - Verifique legislação temporalmente aplicável e precedentes em fontes oficiais quando formular conclusões jurídicas. Citações de peças antigas não são pesquisa atual.
 - Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência.
 - Pedido subsidiário deve explicitar sua condição, preservando a tese principal. Nenhum pedido nasce apenas de um modelo.

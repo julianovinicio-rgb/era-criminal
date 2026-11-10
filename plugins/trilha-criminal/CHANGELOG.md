@@ -2,6 +2,38 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.7.0
+
+Qualidade e distribuição. Nenhuma regra de método foi alterada.
+
+- Cada habilidade ganha `references/exemplo-de-entrega.md`, com um exemplo inteiramente fictício de entrega para calibrar formato, proporção e tom.
+- Novo `GUIA-DE-INICIO.md`, para quem acabou de instalar o plugin.
+- Novo `LICENSE.md`, texto-base de condições de uso, pendente de revisão do titular.
+- Fora do pacote: `testes/casos-de-teste.md`, bateria manual de acionamento, regras comuns e casos por habilidade. Ainda não executada.
+
+## 0.6.0
+
+Ampliação de cobertura. Todo dispositivo, súmula ou tema citado nos módulos novos é localizador para conferência na execução; nenhum foi reaberto em fonte oficial na formação desta versão.
+
+- Peças Defensivas: novo módulo `pecas/justica-negociada.md` para acordo de não persecução penal, transação penal e suspensão condicional do processo, com quadro comparativo para a decisão do cliente. Colaboração premiada permanece fora do escopo.
+- Peças Defensivas: `pecas/tribunal-do-juri.md` ganha a tabela de peças da segunda fase; `pecas/execucao-penal.md` ganha o mapa de institutos, o agravo em execução e o habeas corpus na execução.
+- Preparação de Audiência: novo módulo `plenario-do-juri.md` (calendário de providências, jurados, instrução, debates, quesitos e ata). A descrição da habilidade passa a mencionar o plenário, o que amplia seu acionamento.
+- Recurso de Apelação, Habeas Corpus e Recursos nos Tribunais Superiores: novo módulo `sustentacao-oral.md`, idêntico nas três.
+- Decisão de projeto: júri e execução penal continuam como módulos, e não como habilidades próprias.
+
+## 0.5.0
+
+Consistência entre as habilidades.
+
+- Novo `references/nucleo-comum.md`, idêntico nas sete habilidades: autorização e sigilo, limites de afirmação, peça e nota ao advogado, estados de entrega, linguagem e formato. Regra específica da habilidade prevalece.
+- Mudança de comportamento: a preferência de parágrafo com no máximo um ponto seguido interno, antes presente só em Habeas Corpus e Apelação, passa a valer para todo texto escrito destinado ao juízo. Não se aplica a citações nem a roteiros de fala.
+- Mudança de comportamento: os estados de entrega (minuta elaborada, revisada no escopo indicado, com pendências), antes só no Habeas Corpus, passam a valer em todas as habilidades.
+- Habeas Corpus: os julgados e normas lidos na formação saem de `base-badaro.md` e `fontes-de-partida.md` e vão para `pistas-de-pesquisa.md`, com data de formação e validade de doze meses.
+- Recursos nos Tribunais Superiores: a matriz de prazos passa a trazer valores de referência (REsp, RE, agravos, embargos), sempre marcados como a confirmar. O ponto de atenção sobre decisão da Presidência foi reescrito em termos gerais.
+- Recurso de Apelação: retirada a menção ao caso que inspirou a habilidade.
+- Peças Defensivas: os módulos de ações autônomas e de liberdade remetem ao Habeas Corpus quando disponível.
+- Fora do pacote: `ferramentas/verificar.py` e `ferramentas/empacotar.py` conferem cópias compartilhadas, links, manifestos e geram o zip.
+
 ## 0.4.1
 
 Correções de consistência entre as habilidades. Nenhuma mudança de método, de escopo ou de acionamento.

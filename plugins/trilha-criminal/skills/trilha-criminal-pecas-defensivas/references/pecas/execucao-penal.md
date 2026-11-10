@@ -26,4 +26,33 @@ Em matéria disciplinar, confronte atribuição individual, prova, procedimento,
 
 Peça a providência correspondente ao direito demonstrado: retificação, reconhecimento, processamento, concessão ou revisão, conforme o caso. Justifique urgência com consequência atual. No agravo em execução, confira cabimento, intimação, regime de prazo e fundamentos da decisão; leia [Recursos ordinários](recursos-ordinarios.md) para construção da impugnação, sem importar o rito de outra espécie.
 
+## Mapa de institutos
+
+Os dispositivos, súmulas e temas abaixo são localizadores para a conferência da execução. Não foram reabertos na formação desta versão, e várias dessas regras foram alteradas nos últimos anos: confira a redação vigente e a aplicável à data de cada fato.
+
+| Instituto | Localizadores a conferir | Pergunta que costuma decidir |
+|---|---|---|
+| Progressão de regime | LEP, art. 112; Súmulas Vinculantes 26 e 56 | Qual percentual ou fração incide para cada condenação, pela data do fato, natureza do crime e reincidência específica ou genérica? Há exigência atual de exame criminológico e ela alcança fatos anteriores? |
+| Livramento condicional | Código Penal, arts. 83 a 90; LEP, arts. 131 a 146; Súmula 441 do STJ | Qual fração, quais vedações e qual o efeito da falta grave sobre o requisito objetivo e o subjetivo? |
+| Saída temporária e trabalho externo | LEP, arts. 36, 37 e 122 a 125 | Qual redação se aplica ao condenado, considerada a alteração legislativa recente e a data do fato? |
+| Remição | LEP, arts. 126 a 130 | Dias trabalhados, estudados ou lidos comprovados por quem? Houve perda por falta grave, em que fração e com que fundamentação? |
+| Detração | Código Penal, art. 42; CPP, art. 387, § 2º | Qual período de prisão provisória ou de medida cautelar pode ser computado, e em qual processo? |
+| Unificação e soma de penas | LEP, art. 111; Código Penal, art. 75 | Qual a data-base adotada após a unificação e qual a orientação atual sobre ela? |
+| Falta grave e procedimento disciplinar | LEP, arts. 49 a 60 e 118; Súmulas 533, 534 e 535 do STJ | Houve procedimento com defesa técnica ou audiência de justificação? A conduta foi atribuída individualmente? Quais efeitos a falta produz sobre cada benefício? |
+| Regressão de regime | LEP, art. 118 | O condenado foi ouvido antes da regressão definitiva? |
+| Prisão domiciliar na execução | LEP, art. 117; orientação atual sobre hipóteses fora do regime aberto | Qual hipótese legal ou excepcional, com que prova médica ou familiar atual? |
+| Indulto e comutação | Decreto presidencial do ano pertinente | O condenado preenchia os requisitos na data fixada pelo decreto? |
+| Falta de vaga em regime adequado | Súmula Vinculante 56 | Qual providência o juízo adotou e qual a alternativa cabível? |
+| Excesso ou desvio de execução | LEP, arts. 185 e 186 | Qual ato excede o título ou a lei e quem pode suscitar o incidente? |
+
+A tabela indica onde procurar, não o que afirmar. Não combine partes de leis sucessivas sem pesquisar se a orientação atual admite a combinação.
+
+## Agravo em execução
+
+Confira na execução o cabimento no art. 197 da LEP, o prazo afirmado na Súmula 700 do STF e o rito aplicado por analogia, inclusive o juízo de retratação. O agravo não tem efeito suspensivo em regra; se a decisão produzir dano imediato, avalie com o advogado a via adequada para a tutela urgente e pesquise sua admissibilidade atual. Impugne os fundamentos efetivos da decisão e peça a providência concreta, com o cálculo refeito quando a controvérsia for numérica.
+
+## Habeas corpus na execução
+
+O habeas corpus não substitui o agravo por rotina. Pesquise na execução a orientação atual sobre o cabimento diante de recurso próprio e demonstre a ilegalidade que repercute diretamente na liberdade, com prova pré-constituída. Use Trilha Criminal Habeas Corpus quando disponível.
+
 Consulte a [Lei de Execução Penal](https://www.planalto.gov.br/ccivil_03/leis/l7210.htm), o [Código Penal](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm), atos aplicáveis e jurisprudência oficial vigente. Nenhuma fração, prazo ou elegibilidade fica congelada neste módulo.

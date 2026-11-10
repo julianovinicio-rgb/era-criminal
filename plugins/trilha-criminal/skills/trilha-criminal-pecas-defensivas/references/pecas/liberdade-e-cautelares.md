@@ -1,6 +1,6 @@
 # Liberdade e cautelares
 
-Use este módulo quando a pretensão envolver prisão, manutenção ou revisão de restrições cautelares. Parta do título atual da custódia e do comando que se pretende obter. Consulte o módulo de ações autônomas se a via escolhida for habeas corpus. Entre a prisão em flagrante e o encerramento da audiência de custódia, use Trilha Criminal Flagrante e Custódia quando disponível.
+Use este módulo quando a pretensão envolver prisão, manutenção ou revisão de restrições cautelares. Parta do título atual da custódia e do comando que se pretende obter. Se a via escolhida for habeas corpus, use Trilha Criminal Habeas Corpus quando disponível; sem ela, consulte o módulo de ações autônomas. Entre a prisão em flagrante e o encerramento da audiência de custódia, use Trilha Criminal Flagrante e Custódia quando disponível.
 
 ## Escolher a medida
 

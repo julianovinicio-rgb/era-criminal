@@ -16,7 +16,7 @@ As versões novas são publicadas neste repositório. O número da versão em us
 
 ## Conteúdo
 
-O plugin reúne sete habilidades: Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Habeas Corpus e Recursos nos Tribunais Superiores. Detalhes e histórico de versões em [plugins/trilha-criminal/README.md](plugins/trilha-criminal/README.md).
+O plugin reúne sete habilidades: Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Habeas Corpus e Recursos nos Tribunais Superiores. Quem está começando deve ler o [Guia de início](plugins/trilha-criminal/GUIA-DE-INICIO.md). Detalhes e histórico de versões em [plugins/trilha-criminal/README.md](plugins/trilha-criminal/README.md).
 
 O pacote contém instruções e referências metodológicas. Não inclui autos, peças reais, dados de clientes, credenciais ou catálogo de precedentes. Toda jurisprudência e legislação é conferida na própria execução.
 

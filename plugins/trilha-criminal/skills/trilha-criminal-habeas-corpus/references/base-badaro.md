@@ -31,12 +31,4 @@ As orientações operacionais são síntese crítica desta habilidade; não atri
 
 ## Fontes oficiais consultadas na atualização
 
-Consulta em 21/10/2026, limitada às mudanças desta habilidade. Não substitui pesquisa por tese e por caso.
-
-- [Lei 14.836/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14836.htm) e [CPP](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm): arts. 615, § 1º, e 647-A, inclusive limite de competência. Texto normativo consultado.
-- [ADI 4.296, notícia oficial do STF, 09/06/2021](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=467335) e remissão no [art. 22 da Lei 12.016/2009](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm): confirmação institucional da invalidação da oitiva prévia. Os portais do processo e da pesquisa de inteiro teor não expuseram o acórdão no acesso utilizado; não se afirma leitura integral da ADI.
-- [AgRg no HC 1.028.264/RS](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202503114261), Quinta Turma, rel. Min. Reynaldo Soares da Fonseca, j. 25/11/2025, publicação em 27/11/2025: apoio à distinção entre revaloração e reexame. Ementa, relatório e passagens do voto examinados; ordem de ofício que restabeleceu absolvição, mantida no agravo. Não transforma qualquer disputa de autoria em matéria cognoscível nem confirma o standard doutrinário de preponderância.
-- [AgRg no HC 1.108.250/SP](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202602521131): consultados trechos do voto sobre reiteração e alteração apenas formal do ato coator. Serve como limite à ideia de renovação automática, não como veto a toda nova prova ou fato superveniente.
-- [STJ, registro 2025/0391893-6, publicação em 17/08/2026](https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?dt_publicacao=17%2F08%2F2026&num_registro=202503918936), trechos das pp. 9-11 do PDF: o art. 647-A não afastou os limites de competência. Não usar esse recorte como estudo integral do processo ou como precedente aderente a qualquer cadeia recursal.
-
-Busca dirigida ao STJ sobre preponderância e Badaró não confirmou um standard geral do HC: resultados sobre pronúncia e prova da condenação respondem a perguntas diferentes. Ausência de confirmação nesta pesquisa não demonstra inexistência de apoio. Consulte [Pesquisa atualizada](pesquisa-atualizada.md) antes de usar qualquer dessas proposições no caso concreto.
+As normas e os julgados consultados na atualização de 21/10/2026 estão em [Pistas de pesquisa](pistas-de-pesquisa.md), com data e prazo de validade. Consulte [Pesquisa atualizada](pesquisa-atualizada.md) antes de usar qualquer proposição deste capítulo no caso concreto.

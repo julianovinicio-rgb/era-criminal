@@ -39,6 +39,8 @@ Leia apenas o necessário ao trabalho, nos momentos indicados. Um pedido pontual
 | [Revisão e entrega](references/revisao-e-entrega.md) | Fechamento de qualquer entrega, na extensão do escopo |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
+| [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
+| [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
 
 Escolha a família e, dentro dela, a espécie e o momento processual. Combine módulos apenas quando houver questão concreta que o justifique.
 
@@ -46,6 +48,7 @@ Escolha a família e, dentro dela, a espécie e o momento processual. Combine m�
 |---|---|
 | Prisões, liberdade e outras cautelares | [Liberdade e cautelares](references/pecas/liberdade-e-cautelares.md) |
 | Respostas e defesas iniciais | [Defesas iniciais](references/pecas/defesas-iniciais.md) |
+| Acordo de não persecução penal, transação penal e suspensão condicional do processo | [Justiça negociada](references/pecas/justica-negociada.md) |
 | Investigação, produção e impugnação de prova | [Investigação e instrução](references/pecas/investigacao-e-instrucao.md) |
 | Alegações finais e memoriais | [Alegações finais](references/pecas/alegacoes-finais.md) |
 | Primeira fase, preparação e plenário do júri | [Tribunal do Júri](references/pecas/tribunal-do-juri.md) |

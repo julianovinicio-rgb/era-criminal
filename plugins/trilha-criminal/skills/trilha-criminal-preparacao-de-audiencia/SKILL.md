@@ -1,6 +1,6 @@
 ---
 name: trilha-criminal-preparacao-de-audiencia
-description: "Prepara a atuação defensiva em audiência de instrução criminal: estratégia, perguntas por depoente, interrogatório, atualização por registros recebidos, providências de encerramento e alegações finais orais conforme a prova produzida. Use para preparar a audiência, ajustar a atuação durante o ato ou organizar seu encerramento oral. Não implica escuta automática; memoriais escritos e estudo geral do processo têm fluxos próprios."
+description: "Prepara a atuação defensiva em audiência de instrução criminal: estratégia, perguntas por depoente, interrogatório, atualização por registros recebidos, providências de encerramento e alegações finais orais conforme a prova produzida. Use para preparar a audiência, ajustar a atuação durante o ato ou organizar seu encerramento oral, e também para preparar o plenário do júri, com módulo próprio. Não implica escuta automática; memoriais escritos e estudo geral do processo têm fluxos próprios."
 ---
 
 # Trilha Criminal Preparação de Audiência
@@ -13,7 +13,7 @@ Funcione autonomamente com os materiais disponíveis. Aproveite estudo de caso a
 
 Sempre que for mencionar, citar, transcrever ou analisar artigo de lei brasileira, aplique a rotina de [Conferência legislativa](references/conferencia-legislativa.md), inclusive quanto à redação aplicável na data do fato e ao registro da data de conferência. Detalhes em [Fontes, rito e pesquisa](references/fontes-rito-e-pesquisa.md).
 
-O escopo principal é a audiência de instrução criminal. Identifique o procedimento e adapte as regras antes de operar em rito especial ou primeira fase do júri. Audiência de custódia, plenário do júri e sustentação em tribunal exigem preparação própria; não aplique automaticamente este roteiro. A audiência de custódia tem roteiro em Trilha Criminal Flagrante e Custódia, quando disponível. Um pedido isolado de memoriais escritos pertence à redação de peças; nesta skill, organize a transição e respeite a redação expressamente autorizada.
+O escopo principal é a audiência de instrução criminal. Identifique o procedimento e adapte as regras antes de operar em rito especial ou primeira fase do júri. Audiência de custódia e sustentação em tribunal exigem preparação própria; não aplique automaticamente este roteiro. Para a sessão de julgamento do Tribunal do Júri, aplique [Plenário do júri](references/plenario-do-juri.md), que adapta este método a jurados, quesitos, debates e ata. A audiência de custódia tem roteiro em Trilha Criminal Flagrante e Custódia, quando disponível. Um pedido isolado de memoriais escritos pertence à redação de peças; nesta skill, organize a transição e respeite a redação expressamente autorizada.
 
 ## Selecionar o trabalho
 
@@ -42,9 +42,12 @@ Leia apenas as referências necessárias ao modo e ao problema concretos.
 | [Atualização da audiência](references/atualizacao-da-audiencia.md) | Recebimento de novas informações, anotações, atas, transcrições ou gravações |
 | [Encerramento da instrução](references/encerramento-da-instrucao.md) | Antes de debates, avaliação de diligências, incidentes e conversão em memoriais |
 | [Alegações finais orais](references/alegacoes-finais-orais.md) | Estrutura condicional prévia, revisão da estratégia após prova e preparação de roteiro ou fala |
+| [Plenário do júri](references/plenario-do-juri.md) | Sessão de julgamento do júri: calendário de providências, jurados, instrução, debates, quesitos e ata |
 | [Entregas e revisão](references/entregas-e-revisao.md) | Organização e conferência final, passagem para memoriais e continuidade |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
+| [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
+| [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
 
 ## 1. Delimitar a audiência e a cobertura
 

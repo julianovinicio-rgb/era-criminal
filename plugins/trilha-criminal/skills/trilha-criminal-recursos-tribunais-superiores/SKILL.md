@@ -34,7 +34,7 @@ Use [Cabimento e prazos](references/cabimento-e-prazos.md) para esta etapa.
 Estes pontos são regras abstratas, conferidas a cada execução nas fontes indicadas:
 
 1. Agravo regimental contra decisão monocrática de relator em HC no STJ tem prazo de 5 dias corridos, pelo art. 258 do RISTJ combinado com o CPP, e não de 15 dias úteis do CPC. O erro é frequente.
-2. Contra decisão da Presidência do STJ que não conhece de agravo em recurso especial por falha na cadeia de substabelecimento, com preclusão da regularização (art. 932, parágrafo único, do CPC e Súmula 115 do STJ), a espécie do recurso, agravo regimental ou agravo interno, e o respectivo prazo são conferidos antes do protocolo nos arts. 258 e 259 do RISTJ e na orientação atual do tribunal, pesquisada na execução. Não presuma a espécie, porque a escolha errada pode levar ao prazo errado. A conferência da cadeia de procurações e substabelecimentos é feita antes do protocolo de qualquer recurso ao STJ ou ao STF.
+2. Decisão da Presidência do tribunal, e não de relator, que não conhece de recurso por vício formal exige atenção própria. Exemplo: não conhecimento de agravo em recurso especial por falha na cadeia de substabelecimento, com preclusão da regularização (art. 932, parágrafo único, do CPC e Súmula 115 do STJ). Nessa hipótese, a espécie do recurso, agravo regimental ou agravo interno, e o respectivo prazo são conferidos antes do protocolo nos arts. 258 e 259 do RISTJ e na orientação atual do tribunal, pesquisada na execução. Não presuma a espécie, porque a escolha errada pode levar ao prazo errado. A conferência da cadeia de procurações e substabelecimentos é feita antes do protocolo de qualquer recurso ao STJ ou ao STF.
 3. Embargos de declaração no STF em matéria penal seguem o prazo do art. 337 do RISTF, lido no texto vigente do regimento. Não confunda com o prazo do art. 619 do CPP nem com o prazo cível.
 4. Em agravo regimental contra inadmissão de recurso extraordinário com agravo, a demonstração de repercussão geral indica o Tema já reconhecido e a aderência do caso a ele, e não apenas afirma relevância.
 
@@ -46,8 +46,11 @@ Estes pontos são regras abstratas, conferidas a cada execução nas fontes indi
 | [Admissibilidade](references/admissibilidade.md) | Pressupostos, súmulas de admissibilidade, representação, preparo e repercussão geral |
 | [Redação por espécie](references/redacao-por-especie.md) | Estrutura e conteúdo de cada recurso ou incidente |
 | [Regimentos e fontes](references/regimentos-e-fontes.md) | Localização das normas, regimentos e bases de temas e precedentes |
+| [Sustentação oral](references/sustentacao-oral.md) | Cabimento, tempo, requerimento e roteiro de sustentação no STJ e no STF |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos |
+| [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha |
+| [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam |
 
 ## Fluxo de trabalho
 

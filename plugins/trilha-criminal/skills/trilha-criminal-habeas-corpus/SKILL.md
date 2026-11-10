@@ -45,9 +45,13 @@ Não transforme redação em protocolo, envio a terceiros ou alteração de docu
 | [Base e exemplos comentados](references/base-exemplos.md) | Reaproveitamento de doutrina, sugestões de outras ferramentas e modelos. |
 | [Leitura crítica de Badaró](references/base-badaro.md) | Uso das contribuições do capítulo, com páginas, divergências e atualização normativa. |
 | [Tutela coletiva](references/tutela-coletiva.md) | HC coletivo ou aplicação de ordem coletiva a paciente individual. |
+| [Sustentação oral](references/sustentacao-oral.md) | Cabimento, tempo, requerimento e roteiro de sustentação no julgamento do HC ou do recurso. |
 | [Fontes de partida](references/fontes-de-partida.md) | Localização inicial das fontes oficiais, sempre seguida de conferência atual. |
+| [Pistas de pesquisa](references/pistas-de-pesquisa.md) | Julgados e normas lidos na formação da habilidade, com data e validade; ponto de partida, nunca precedente verificado. |
 | [Conferência legislativa](references/conferencia-legislativa.md) | Toda menção, citação, transcrição ou análise de artigo de lei brasileira. |
 | [Localização de documentos](references/localizacao-de-documentos.md) | Toda indicação de documento, trecho ou mídia dos autos. |
+| [Núcleo comum](references/nucleo-comum.md) | Regras de autorização, sigilo, nota ao advogado, estados de entrega e linguagem, iguais em toda a Trilha. |
+| [Exemplo de entrega](references/exemplo-de-entrega.md) | Calibrar formato, proporção e tom antes de entregar; exemplo fictício, cujos fatos e conclusões não se copiam. |
 
 Leia apenas os módulos pertinentes; não transforme pedido pontual em auditoria integral nem carregue todos os módulos por rotina.
 

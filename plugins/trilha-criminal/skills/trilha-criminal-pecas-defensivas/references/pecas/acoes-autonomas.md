@@ -1,6 +1,6 @@
 # Ações autônomas de impugnação
 
-Use especialmente para habeas corpus e revisão criminal. Outras ações exigem pesquisa específica de competência, cabimento e requisitos, sem adaptação automática destes roteiros. Defina primeiro qual ato ou situação se pretende modificar, qual resultado atende à defesa e quais documentos demonstram seus pressupostos.
+Use especialmente para habeas corpus e revisão criminal. Quando disponível, Trilha Criminal Habeas Corpus traz o roteiro próprio de cabimento, cognição, pesquisa por tese, redação e pedidos de HC e RHC; a parte de habeas corpus deste módulo é o roteiro resumido para quando ela não estiver instalada. Outras ações exigem pesquisa específica de competência, cabimento e requisitos, sem adaptação automática destes roteiros. Defina primeiro qual ato ou situação se pretende modificar, qual resultado atende à defesa e quais documentos demonstram seus pressupostos.
 
 ## Habeas corpus
 
