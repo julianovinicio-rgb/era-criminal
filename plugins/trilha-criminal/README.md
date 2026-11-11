@@ -1,6 +1,6 @@
 # Trilha Criminal
 
-Versão 0.8.2, destinada a teste privado e à futura distribuição aos alunos da Trilha Criminal.
+Versão 0.8.3, destinada a teste privado e à futura distribuição aos alunos da Trilha Criminal.
 
 O plugin reúne oito habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
 
@@ -81,3 +81,4 @@ Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do ti
 - **0.8.0:** nova habilidade Cálculos Penais, com script próprio para prescrição, prazos processuais, pena e execução, e remissões a ela nas demais habilidades.
 - **0.8.1:** correções na habilidade Cálculos Penais depois da primeira execução dos testes: o retrato datado da lei não vale como conferência da execução, a descrição passa a citar dosimetria, e súmula ou julgado só entra a partir do portal do tribunal.
 - **0.8.2:** descrição da habilidade Cálculos Penais reforçada para entrar em toda pergunta que dependa de contar tempo a partir de uma data informada, com exemplos de pedido.
+- **0.8.3:** descrição de Recursos nos Tribunais Superiores reescrita para entrar em pergunta curta sobre decisão de relator, Presidência ou turma do STJ e do STF; descrição de Cálculos Penais começa pelo gatilho; fronteiras com Habeas Corpus e Recurso de Apelação explicitadas.

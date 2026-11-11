@@ -1,6 +1,6 @@
 ---
 name: trilha-criminal-habeas-corpus
-description: "Analisa, planeja, redige e revisa habeas corpus criminais brasileiros individualizados e suas impugnações relacionadas. Use para enfrentar restrição ou ameaça à liberdade, escolher entre HC e recurso próprio, formular liminar ou atualizar a defesa diante de decisão superveniente. Exige pesquisa jurídica atual em cada execução, confronto documental e transcrição literal das decisões em itálico."
+description: "Analisa, planeja, redige e revisa habeas corpus criminais brasileiros individualizados e suas impugnações relacionadas. Use para enfrentar restrição ou ameaça à liberdade, escolher entre HC e recurso próprio, formular liminar ou atualizar a defesa diante de decisão superveniente. Inclui decisão de relator ou de turma em HC ou RHC no STJ e no STF, como a liminar indeferida. Exige pesquisa jurídica atual em cada execução, confronto documental e transcrição literal das decisões em itálico."
 ---
 
 # Trilha Criminal Habeas Corpus

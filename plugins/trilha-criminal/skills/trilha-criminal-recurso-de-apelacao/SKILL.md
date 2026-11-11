@@ -1,6 +1,6 @@
 ---
 name: trilha-criminal-recurso-de-apelacao
-description: "Planeja, redige e revisa recursos de apelação criminal defensivos, com impugnação específica da sentença, análise probatória individualizada, dosimetria, pedidos e conferência final. Use para interposição, razões, estratégia ou revisão de apelação. Pedido apenas de estratégia não autoriza minuta; outras espécies recursais exigem enquadramento próprio."
+description: "Planeja, redige e revisa recursos de apelação criminal defensivos, com impugnação específica da sentença, análise probatória individualizada, dosimetria, pedidos e conferência final. Use para interposição, razões, estratégia ou revisão de apelação. Pedido apenas de estratégia não autoriza minuta; outras espécies recursais exigem enquadramento próprio. A contagem do prazo a partir de uma data informada é feita por Trilha Criminal Cálculos Penais."
 metadata:
   version: "1.1.1"
 ---

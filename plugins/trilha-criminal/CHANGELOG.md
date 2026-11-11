@@ -2,6 +2,18 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.8.3
+
+Ajuste de acionamento. Regras, referências e script não mudaram; só as descrições.
+
+- Recursos nos Tribunais Superiores: a descrição passa a dizer quando usar em termos de situação, e não só de espécie recursal: decisão de ministro relator, da Presidência ou de turma do STJ ou do STF, e recurso especial ou extraordinário inadmitido na origem, mesmo em pergunta curta e sem documentos. Traz três exemplos de pedido, entre eles o do caso de teste A8. Motivo: o A8 ("o relator do STJ negou seguimento ao meu agravo, qual o recurso e o prazo?") não acionou a habilidade em nenhuma execução registrada.
+- A mesma descrição diz que, havendo data para contar, a contagem pode usar Cálculos Penais, mas a escolha do recurso fica nela.
+- Habeas Corpus: a descrição passa a incluir decisão de relator ou de turma em HC ou RHC no STJ e no STF, como a liminar indeferida. Motivo: impedir que a descrição nova de Tribunais Superiores atraia o caso A9.
+- Cálculos Penais: a descrição foi reordenada para abrir pelo gatilho ("use sempre que a resposta depender de contar...") e diz que a regra vale mesmo quando o resultado parecer óbvio. O conteúdo é o da 0.8.2. Motivo: o A15 entrou em uma de duas execuções.
+- Recurso de Apelação: a descrição passa a remeter a contagem do prazo a partir de data informada a Cálculos Penais.
+- Mudança de comportamento: Tribunais Superiores tende a entrar em mais perguntas sobre decisões do STJ e do STF. O risco é invadir Habeas Corpus em decisões de HC, coberto pelo A9.
+- Este ajuste não foi testado em conversa. Acionamento varia entre execuções, e uma execução isolada não o confirma.
+
 ## 0.8.2
 
 Ajuste de acionamento da habilidade Cálculos Penais. Regras e script não mudaram.
