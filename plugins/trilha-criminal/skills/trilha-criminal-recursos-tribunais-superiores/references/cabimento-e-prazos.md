@@ -32,7 +32,7 @@ Registre em quadro curto:
 | Termo final | | |
 | Data da conferência | | |
 
-Em matéria penal, a contagem segue o CPP, salvo norma específica em sentido contrário identificada na execução. Quando incidir o CPC, a contagem em dias úteis decorre dele, e a fonte deve ser indicada. Não presuma intimação pela data do julgamento. Distinga disponibilização e publicação no diário eletrônico.
+Em matéria penal, a contagem segue o CPP, salvo norma específica em sentido contrário identificada na execução. Quando incidir o CPC, a contagem em dias úteis decorre dele, e a fonte deve ser indicada. Não presuma intimação pela data do julgamento. Distinga disponibilização e publicação no diário eletrônico. Quando Trilha Criminal Cálculos Penais estiver disponível, faça a contagem com ela depois de definidos a espécie, a intimação e o regime de contagem.
 
 Prerrogativas de prazo, como as da Defensoria Pública, são conferidas na lei aplicável e na orientação atual do tribunal antes de serem usadas no cálculo.
 

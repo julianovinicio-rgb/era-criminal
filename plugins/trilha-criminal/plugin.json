@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "trilha-criminal",
-  "version": "0.7.0",
-  "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus e recursos no STJ e no STF com fontes rastreáveis.",
+  "version": "0.8.0",
+  "description": "Estudo de casos criminais, flagrante e custódia, peças defensivas, preparação de audiência, apelação, habeas corpus, recursos no STJ e no STF e cálculos penais com fontes rastreáveis.",
   "author": {
     "name": "Juliano Negreiros"
   },
@@ -17,7 +17,9 @@
     "audiencia",
     "recurso-de-apelacao",
     "habeas-corpus",
-    "recursos-tribunais-superiores"
+    "recursos-tribunais-superiores",
+    "calculos-penais",
+    "prescricao"
   ],
   "extensions": {
     "com.openai": {
@@ -27,8 +29,8 @@
         "logoDark": "./assets/trilha-logo-v024.png",
         "composerIcon": "./assets/trilha-logo-v024.png",
         "composerIconDark": "./assets/trilha-logo-v024.png",
-        "shortDescription": "Estudo, custódia, peças, audiência, recursos e HC",
-        "longDescription": "Método de trabalho defensivo criminal com análise individualizada, fontes rastreáveis, conferência legislativa na própria execução e revisão estratégica. Reúne sete habilidades autônomas: Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Habeas Corpus e Recursos nos Tribunais Superiores.",
+        "shortDescription": "Estudo, custódia, peças, audiência, recursos, HC e cálculos",
+        "longDescription": "Método de trabalho defensivo criminal com análise individualizada, fontes rastreáveis, conferência legislativa na própria execução e revisão estratégica. Reúne oito habilidades autônomas: Estudo de Caso, Flagrante e Custódia, Peças Defensivas, Preparação de Audiência, Recurso de Apelação, Habeas Corpus, Recursos nos Tribunais Superiores e Cálculos Penais.",
         "developerName": "Juliano Negreiros",
         "category": "Productivity",
         "capabilities": [
@@ -42,7 +44,8 @@
           "Redija a peça defensiva solicitada com base nos documentos deste caso.",
           "Prepare a audiência de instrução de [cliente], com perguntas por depoente e cenários de alegações finais orais.",
           "Examine a sentença e planeje a apelação criminal de [cliente], com análise da prova, dosimetria e pedidos, sem redigir ainda.",
-          "Identifique o recurso cabível e o prazo contra esta decisão do STJ ou do STF no caso de [cliente], com admissibilidade e fontes conferidas."
+          "Identifique o recurso cabível e o prazo contra esta decisão do STJ ou do STF no caso de [cliente], com admissibilidade e fontes conferidas.",
+          "Calcule a prescrição no caso de [cliente] com os marcos destes documentos e mostre a memória de cálculo."
         ]
       }
     }

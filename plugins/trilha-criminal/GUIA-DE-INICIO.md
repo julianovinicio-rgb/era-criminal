@@ -4,7 +4,7 @@ Este guia é para quem acabou de instalar o plugin Trilha Criminal. Leva cinco m
 
 ## O que o plugin faz
 
-Ele ensina ao assistente um método de trabalho defensivo criminal. São sete habilidades, cada uma para um tipo de trabalho. Você não precisa decorar os nomes: descreva o que quer e a habilidade certa é acionada. Se preferir, chame pelo nome no seletor de habilidades.
+Ele ensina ao assistente um método de trabalho defensivo criminal. São oito habilidades, cada uma para um tipo de trabalho. Você não precisa decorar os nomes: descreva o que quer e a habilidade certa é acionada. Se preferir, chame pelo nome no seletor de habilidades.
 
 | Você precisa de | Diga algo como |
 |---|---|
@@ -17,6 +17,7 @@ Ele ensina ao assistente um método de trabalho defensivo criminal. São sete ha
 | Habeas corpus | "Analise o cabimento e planeje o HC deste paciente." |
 | Recorrer ao STJ ou ao STF | "Identifique o recurso cabível e o prazo contra esta decisão." |
 | Sustentar oralmente | "Prepare o roteiro de sustentação oral desta apelação." |
+| Calcular prescrição, prazo, pena ou progressão | "Calcule se este crime prescreveu, com os marcos destes documentos." |
 
 ## Três regras para tirar o melhor resultado
 
@@ -31,6 +32,7 @@ Ele ensina ao assistente um método de trabalho defensivo criminal. São sete ha
 - **Nenhum precedente de memória.** A jurisprudência é pesquisada na hora, em fonte oficial. Se a pesquisa não for possível, a entrega diz que o ponto está pendente.
 - **Artigos de lei conferidos.** O texto é lido em fonte oficial na execução, com a data registrada na nota.
 - **Citações literais só do original.** Trecho entre aspas ou em itálico foi conferido no documento. Se o original não estava disponível, a nota avisa.
+- **Nenhuma conta de cabeça.** Datas, frações e penas são calculadas por um script, e a entrega traz a memória de cálculo para você refazer. A data projetada é uma conta sobre os dados informados, e não um direito reconhecido. Se a sua conversa não executa código, a entrega avisa que a conta foi feita à mão.
 - **Nenhuma peça "pronta para protocolo".** O plugin entrega minuta elaborada, revisada no escopo indicado ou com pendências. A conferência final e a decisão de protocolar são suas.
 
 ## O que o plugin não faz

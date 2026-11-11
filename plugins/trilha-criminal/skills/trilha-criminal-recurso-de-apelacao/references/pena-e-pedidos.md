@@ -10,7 +10,7 @@ Indique fundamento concreto para a fração pretendida, verifique limites legais
 
 Examine duplicidade de valoração, elemento inerente ao tipo, fundamentação genérica e critérios relativos a cada acusado. Não pressuponha bis in idem apenas porque dois fundamentos usam palavras semelhantes: identifique o mesmo fato valorado e as funções jurídicas atribuídas a ele.
 
-Refaça a aritmética de cada cenário útil. Declare unidades, sequência e critério de conversão; não use silenciosamente meses de trinta dias para contar custódia em calendário. Mostre ao advogado a memória do cálculo quando necessária para auditá-lo.
+Refaça a aritmética de cada cenário útil. Declare unidades, sequência e critério de conversão; não use silenciosamente meses de trinta dias para contar custódia em calendário. Mostre ao advogado a memória do cálculo quando necessária para auditá-lo. Quando Trilha Criminal Cálculos Penais estiver disponível, refaça a conta e compare os cenários com ela.
 
 Identifique os limiares úteis da pena total, como 2, 4 e 8 anos, e calcule qual tese isolada leva a pena a cada um deles. Use esse resultado para ordenar os pedidos subsidiários: uma tese juridicamente mais discutível pode ser prioritária se sozinha muda regime ou permite substituição.
 

@@ -59,7 +59,7 @@ Escolha a família e, dentro dela, a espécie e o momento processual. Combine m�
 
 Esses módulos orientam a identificação de problemas. Não constituem catálogo fechado, banco de teses obrigatórias ou confirmação antecipada de cabimento.
 
-A atuação entre a prisão em flagrante e o encerramento da audiência de custódia tem roteiro próprio em Trilha Criminal Flagrante e Custódia, e os recursos e incidentes no STJ e no STF têm roteiro próprio em Trilha Criminal Recursos nos Tribunais Superiores. Use essas skills quando disponíveis; sem elas, aplique os módulos acima com a mesma exigência de conferência.
+A atuação entre a prisão em flagrante e o encerramento da audiência de custódia tem roteiro próprio em Trilha Criminal Flagrante e Custódia, e os recursos e incidentes no STJ e no STF têm roteiro próprio em Trilha Criminal Recursos nos Tribunais Superiores. Use essas skills quando disponíveis; sem elas, aplique os módulos acima com a mesma exigência de conferência. Contas de prescrição, prazo, pena e execução têm script e roteiro próprios em Trilha Criminal Cálculos Penais: quando disponível, faça a conta com ela e leve a memória de cálculo para a nota ao advogado.
 
 ## 1. Delimitar a peça e a base disponível
 

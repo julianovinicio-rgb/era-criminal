@@ -8,7 +8,7 @@ Não use indistintamente data de captura e data da preventiva, julgamento e publ
 
 Distinga interposição, apresentação de razões, juntada, intimação, retratação e julgamento, conferindo a natureza de cada ato no original. Razões recursais e sua juntada não comprovam, por si, a data da interposição. Mantenha um registro comum dos dados utilizados: ato, data, movimento/ID e localizador; confronte cronologia, diagnóstico e minuta com esse registro e corrija divergências em todas as entregas afetadas.
 
-Para cálculos, declare datas inicial/final, data de corte, continuidade ou interrupções e critério de inclusão dos extremos. Use cálculo verificável, preservando os marcos originais. Se documentos divergem, não escolha silenciosamente a data que favorece a tese. Duração de custódia e prazo recursal são cálculos de natureza distinta.
+Para cálculos, declare datas inicial/final, data de corte, continuidade ou interrupções e critério de inclusão dos extremos. Use cálculo verificável, preservando os marcos originais. Se documentos divergem, não escolha silenciosamente a data que favorece a tese. Duração de custódia e prazo recursal são cálculos de natureza distinta. Quando Trilha Criminal Cálculos Penais estiver disponível, use-a para as duas contas.
 
 Prazos recursais exigem legislação, intimação, regime de contagem, suspensões, calendário e prerrogativas relevantes. A forma criminal de contagem não pode ser substituída pela civil por hábito. Sem marco indispensável, não conclua tempestividade.
 

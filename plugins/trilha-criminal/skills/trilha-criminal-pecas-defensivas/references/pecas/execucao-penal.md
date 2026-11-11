@@ -16,7 +16,7 @@ Não deduza reincidência, classificação do delito ou requisito subjetivo de r
 
 ## Calcular e argumentar
 
-Apresente entradas, períodos, critérios, operações, regra de contagem e fonte de cada dado decisivo. Separe tempo cumprido, créditos reconhecidos, créditos requeridos e projeções. Indique como unificação, detração, remição ou evento disciplinar afetam especificamente o benefício examinado, sem transferir automaticamente efeitos entre institutos.
+Apresente entradas, períodos, critérios, operações, regra de contagem e fonte de cada dado decisivo. Separe tempo cumprido, créditos reconhecidos, créditos requeridos e projeções. Indique como unificação, detração, remição ou evento disciplinar afetam especificamente o benefício examinado, sem transferir automaticamente efeitos entre institutos. Quando Trilha Criminal Cálculos Penais estiver disponível, faça a conta com ela e junte a memória de cálculo.
 
 Se houver premissa controvertida, produza cenários identificados e mostre qual é a interpretação defensiva sustentada. Uma estimativa não deve ser chamada de data adquirida ou cálculo homologado. Em revisão de cálculo, localize a diferença e explique seu efeito, em vez de apenas apresentar total alternativo.
 

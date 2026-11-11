@@ -2,6 +2,19 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.8.0
+
+Nova habilidade e primeiro script do pacote.
+
+- Nova habilidade Trilha Criminal Cálculos Penais: prescrição, prazos processuais, aritmética de pena e requisitos temporais da execução, com memória de cálculo. A decisão jurídica (prazo, fração, marcos, data-base e lei aplicável) é tomada antes, com documento e lei conferida. A aritmética é feita por script.
+- Novo `scripts/calculos.py` na habilidade, só com a biblioteca padrão do Python, com seis comandos (`prazo`, `prescricao`, `pena`, `execucao`, `remicao` e `periodos`) e autoteste. Nenhum prazo, fração ou percentual legal está fixado no código: entram como dado. O script recusa campo desconhecido, data inexistente e períodos sobrepostos.
+- Os dispositivos das referências novas foram lidos no Planalto em 11/11/2026 e estão registrados como retrato datado, que não dispensa a conferência na execução: Código Penal, arts. 10, 11, 33, 42, 44, 69 a 71, 75, 77, 83 e 109 a 119; LEP, arts. 111, 112, 126 a 128 e 197; CPP, arts. 366, 392, 396, 403, 406, 586, 588, 593, 600, 609, 619, 798 e 798-A; Lei 9.099/1995, arts. 82, 83 e 89; Lei 11.419/2006, arts. 4º e 5º. Súmulas, temas e orientações de tribunais citados nessas referências são pistas de pesquisa e não foram conferidos.
+- Achado da leitura: o art. 112 da LEP foi alterado pelas Leis 15.358 e 15.402, de 2026, e o art. 115 do Código Penal pela Lei 15.160, de 2025. As referências novas registram as duas mudanças. O mapa de institutos de `pecas/execucao-penal.md` já mandava conferir a redação e não foi alterado.
+- Remissões à nova habilidade em Estudo de Caso, Peças Defensivas (inclusive no módulo de execução penal), Recurso de Apelação, Habeas Corpus e Recursos nos Tribunais Superiores.
+- Mudança de comportamento: a descrição da nova habilidade pode acioná-la em perguntas sobre prescrição e contagem de prazo que antes eram respondidas sem habilidade ou por outra. A escolha do recurso cabível continua nas habilidades próprias.
+- Limite conhecido: o script depende de execução de código na conversa. Sem ela, a habilidade orienta a conta manual pelas mesmas convenções e marca a entrega como não executada pelo script.
+- Fora do pacote: `ferramentas/verificar.py` passa a exigir os arquivos comuns nas oito habilidades e a rodar o autoteste dos scripts; `ferramentas/empacotar.py` deixa de fora os arquivos de cache do Python. `testes/casos-de-teste.md` ganha casos de acionamento e da nova habilidade. A bateria continua não executada.
+
 ## 0.7.0
 
 Qualidade e distribuição. Nenhuma regra de método foi alterada.

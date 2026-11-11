@@ -1,8 +1,8 @@
 # Trilha Criminal
 
-Versão 0.7.0, destinada a teste privado e à futura distribuição aos alunos da Trilha Criminal.
+Versão 0.8.0, destinada a teste privado e à futura distribuição aos alunos da Trilha Criminal.
 
-O plugin reúne sete habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
+O plugin reúne oito habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
 
 | Trabalho | Habilidade |
 |---|---|
@@ -13,8 +13,9 @@ O plugin reúne sete habilidades independentes. Use a função correspondente ao
 | Analisar a sentença, planejar, redigir ou revisar a apelação criminal | Trilha Criminal Recurso de Apelação |
 | Analisar o constrangimento à liberdade, planejar, redigir, revisar ou atualizar HC, RHC e impugnações relacionadas | Trilha Criminal Habeas Corpus |
 | Recurso especial, extraordinário, agravos, embargos, reclamação e tutela de urgência no STJ e no STF | Trilha Criminal Recursos nos Tribunais Superiores |
+| Calcular prescrição, prazo processual, pena e requisito temporal da execução, com memória de cálculo | Trilha Criminal Cálculos Penais |
 
-Preventiva decretada depois da custódia é tratada pelas habilidades de Habeas Corpus ou de Peças Defensivas. Habeas corpus e RHC permanecem na habilidade de Habeas Corpus, e a apelação permanece na habilidade própria.
+Preventiva decretada depois da custódia é tratada pelas habilidades de Habeas Corpus ou de Peças Defensivas. Habeas corpus e RHC permanecem na habilidade de Habeas Corpus, e a apelação permanece na habilidade própria. A habilidade de Cálculos Penais faz a conta; a escolha do recurso cabível continua na habilidade do recurso.
 
 Quem está começando deve ler o [Guia de início](GUIA-DE-INICIO.md). As condições de uso estão em [LICENSE.md](LICENSE.md).
 
@@ -30,6 +31,16 @@ Quem está começando deve ler o [Guia de início](GUIA-DE-INICIO.md). As condi�
 - “Analise o cabimento e planeje o habeas corpus deste paciente, sem redigir ainda.”
 - “Identifique o recurso cabível e o prazo contra esta decisão monocrática do STJ e redija o agravo.”
 - “Revise este recurso especial quanto a prequestionamento, Súmula 7 e impugnação de todos os fundamentos do acórdão.”
+- “Calcule se este crime prescreveu, com os marcos destes documentos, e mostre a memória de cálculo.”
+- “Confira a dosimetria desta sentença e diga qual tese leva a pena para até quatro anos.”
+
+## Cálculos e script
+
+A habilidade Cálculos Penais traz o arquivo `scripts/calculos.py`, que faz a aritmética de datas, frações e penas e devolve uma memória de cálculo. Ele usa apenas a biblioteca padrão do Python e tem seis comandos: `prazo`, `prescricao`, `pena`, `execucao`, `remicao` e `periodos`.
+
+Nenhum prazo, fração ou percentual legal está fixado no código. Esses valores entram como dado, depois de conferidos em fonte oficial na execução, e o script recusa entrada incompleta ou incoerente em vez de completá-la. As tabelas das referências dessa habilidade são retratos datados da lei e não dispensam a conferência.
+
+A execução do script depende de a conversa permitir execução de código. Sem isso, a habilidade orienta a conta manual pelas mesmas convenções e marca a entrega como não executada pelo script.
 
 ## Conferência legislativa
 
@@ -47,7 +58,7 @@ Todas as habilidades têm também o arquivo `references/localizacao-de-documento
 
 Relatórios anteriores orientam o trabalho. Afirmações decisivas devem ser conferidas nas fontes acessíveis, com indicação das lacunas e do último ato abrangido. Um pedido de estudo não autoriza automaticamente redigir uma peça.
 
-O pacote contém instruções e referências metodológicas. Não inclui autos, peças reais usadas como amostras, credenciais, catálogo de precedentes verificados, servidor próprio ou ferramentas de protocolo. A leitura, o OCR, a pesquisa e a criação de arquivos dependem das capacidades disponíveis na conversa. Não configura por si só acesso a tribunais, protocolo, escuta automática ou monitoramento de audiência.
+O pacote contém instruções, referências metodológicas e o script de cálculo da habilidade Cálculos Penais. Não inclui autos, peças reais usadas como amostras, credenciais, catálogo de precedentes verificados, servidor próprio ou ferramentas de protocolo. A leitura, o OCR, a pesquisa e a criação de arquivos dependem das capacidades disponíveis na conversa. Não configura por si só acesso a tribunais, protocolo, escuta automática ou monitoramento de audiência.
 
 Toda jurisprudência é pesquisada e conferida na própria execução. Os poucos julgados lidos na formação do Habeas Corpus ficam em `pistas-de-pesquisa.md`, com data e validade, apenas como ponto de partida. Onde um dado não puder ser conferido, a entrega informa que está pendente de verificação.
 
@@ -67,3 +78,4 @@ Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do ti
 - **0.5.0:** núcleo comum de regras em todas as habilidades; julgados datados do Habeas Corpus reunidos em pistas de pesquisa com validade; matriz de prazos dos tribunais superiores com valores de referência a confirmar; remissões entre Peças Defensivas e as habilidades especializadas.
 - **0.6.0:** ampliação de cobertura. Peças Defensivas ganha o módulo de justiça negociada (acordo de não persecução penal, transação e suspensão condicional do processo) e amplia os de júri e de execução penal; Preparação de Audiência ganha o módulo de plenário do júri; Apelação, Habeas Corpus e Recursos nos Tribunais Superiores ganham o módulo de sustentação oral.
 - **0.7.0:** um exemplo fictício de entrega em cada habilidade, guia de início para quem instala o plugin e arquivo de condições de uso.
+- **0.8.0:** nova habilidade Cálculos Penais, com script próprio para prescrição, prazos processuais, pena e execução, e remissões a ela nas demais habilidades.

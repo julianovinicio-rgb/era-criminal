@@ -98,7 +98,7 @@ Explique a escolha com critérios concretos. Confira compatibilidade entre premi
 
 Avalie benefício, custo e risco das diligências, inclusive informação desfavorável e suprimento de lacuna acusatória. Considere oportunidade processual e preservação de prova. Não recomende adiamento sem avaliar o risco aplicável.
 
-Para cálculos, exponha marcos, critérios, premissas e dados faltantes. Separe cenário condicional de conclusão definitiva. Não presuma fração, lei aplicável ou termo inicial.
+Para cálculos, exponha marcos, critérios, premissas e dados faltantes. Separe cenário condicional de conclusão definitiva. Não presuma fração, lei aplicável ou termo inicial. Quando Trilha Criminal Cálculos Penais estiver disponível, use-a para a aritmética de prescrição, prazo, pena e execução.
 
 ## 7. Realizar revisão adversarial
 
