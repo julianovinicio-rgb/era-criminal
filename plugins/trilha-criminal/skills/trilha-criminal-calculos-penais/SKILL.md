@@ -1,6 +1,6 @@
 ---
 name: trilha-criminal-calculos-penais
-description: "Calcula, com memória conferível, prescrição penal, prazos processuais, dosimetria e aritmética de pena, e requisitos temporais da execução (progressão, livramento, remição, detração e término de pena) em casos criminais brasileiros. Use quando o usuário pedir uma conta de datas, prazos, frações ou penas, quiser conferir a conta da dosimetria de uma sentença ou acórdão, o cálculo de cartório ou o do juízo da execução, ou perguntar se um crime prescreveu, quando vence um prazo já identificado ou quando o cliente atinge o requisito temporal de um benefício. Executa script próprio para a aritmética; prazo, fração, marcos e lei aplicável são conferidos em fonte oficial antes da conta. Não escolhe o recurso cabível, não redige peça e não substitui o cálculo homologado."
+description: "Calcula, com memória conferível, prazos processuais, prescrição penal, dosimetria e aritmética de pena, e requisitos temporais da execução (progressão, livramento, remição, detração e término de pena) em casos criminais brasileiros. Use sempre que a resposta depender de contar dias, meses ou anos a partir de uma data informada (intimação, publicação, fato, denúncia, sentença ou início da prisão), mesmo quando a conta parecer simples: “fui intimado na sexta, até quando posso apelar ou recorrer?”, “quando vence o prazo?”, “prescreveu?”, “quando ele progride de regime?”. Use também para conferir a conta da dosimetria de uma sentença ou acórdão, o cálculo de cartório ou o do juízo da execução. Executa script próprio para a aritmética, depois de conferidos em fonte oficial o prazo, a fração, os marcos e a lei aplicável. Pergunta sobre a regra, sem data para contar, não exige esta habilidade. Não escolhe o recurso cabível, não redige peça e não substitui o cálculo homologado."
 ---
 
 # Trilha Criminal Cálculos Penais
@@ -27,6 +27,8 @@ Funcione de forma autônoma ou a serviço de outra habilidade da Trilha. Quando 
 | Duração de uma prisão ou soma de períodos, para detração ou excesso de prazo | `periodos` | [Script e convenções](references/script-e-convencoes.md) |
 
 Pergunta simples sobre a regra, como "qual o prazo da apelação?", não exige o script: responda com o dispositivo conferido. O script entra quando há data para somar, fração para aplicar ou períodos para comparar.
+
+Pergunta de prazo com data informada, como "fui intimado na sexta, até quando posso apelar?", é conta e passa pelo script, por mais curta que seja. O risco não está na soma de cinco dias, e sim no dia do começo, no fim de semana, no feriado e na forma da intimação, que a memória de cálculo deixa à vista.
 
 Conferir a conta de uma dosimetria é trabalho desta habilidade mesmo quando parece simples. Duas ou três frações em sequência já produzem erro de cabeça, e a divergência com a decisão precisa de memória que o advogado consiga refazer.
 

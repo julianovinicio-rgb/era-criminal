@@ -46,6 +46,7 @@ Os documentos que você envia são tratados como fonte do caso. O método proíb
 ## Se algo sair errado
 
 - **A habilidade errada foi acionada:** chame a certa pelo nome.
+- **A conta veio sem memória de cálculo:** a habilidade de cálculos não entrou. Chame-a pelo nome, `/trilha-criminal-calculos-penais`, e repita o pedido.
 - **A entrega veio longa demais:** peça o recorte. "Só o capítulo da dosimetria."
 - **Um artigo ou julgado parece errado:** peça a fonte e a data de conferência. Se não houver, trate como não conferido.
 - **A versão está desatualizada:** sincronize o marketplace na tela de plugins e abra uma conversa nova.

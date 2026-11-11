@@ -2,6 +2,16 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.8.2
+
+Ajuste de acionamento da habilidade Cálculos Penais. Regras e script não mudaram.
+
+- A descrição passa a dizer que a habilidade entra sempre que a resposta depender de contar dias, meses ou anos a partir de uma data informada, mesmo em conta simples, e traz exemplos de pedido. Motivo: na reexecução de 11/11/2026, a pergunta "fui intimado na sexta, até quando posso apelar?" foi respondida sem a habilidade, com a data certa e sem memória de cálculo; na execução anterior, a mesma pergunta a tinha acionado.
+- A descrição passa a dizer também que pergunta sobre a regra, sem data para contar, não exige a habilidade, para preservar o caso de teste A16.
+- Mudança de comportamento: a habilidade tende a entrar em mais pedidos que tragam uma data. O efeito sobre as outras habilidades não foi medido.
+- O corpo da habilidade explica por que pergunta de prazo com data passa pelo script. O guia de início ensina a chamar a habilidade pelo nome quando a conta vier sem memória de cálculo.
+- Este ajuste não foi testado em conversa. Acionamento varia entre execuções, e uma execução isolada não o confirma.
+
 ## 0.8.1
 
 Correções na habilidade Cálculos Penais, a partir da primeira execução dos casos de teste, em 11/11/2026. O script não mudou.
