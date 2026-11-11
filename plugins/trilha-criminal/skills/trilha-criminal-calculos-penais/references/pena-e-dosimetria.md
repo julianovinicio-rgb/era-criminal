@@ -28,6 +28,8 @@ A comparação é numérica. A lei usa expressões diferentes em cada limiar, co
 
 Lidos no Planalto, na versão compilada do Código Penal, em 11/11/2026. É um retrato para orientar a leitura e não dispensa a conferência na execução nem a análise da redação vigente na data do fato.
 
+A data acima é a da formação desta habilidade, e não a da sua execução. Não a apresente como conferência sua. Dispositivo que você não abrir agora em fonte oficial vai para a nota como `não reconferido nesta execução; texto do retrato da habilidade, datado de 11/11/2026`.
+
 | Dispositivo | Conteúdo no retrato | Uso na conta |
 |---|---|---|
 | Art. 11 | Desprezam-se as frações de dia nas penas privativas de liberdade e restritivas de direitos | Convenção do script |
@@ -61,7 +63,7 @@ Nas causas de aumento e de diminuição, o intervalo vem do tipo ou da norma esp
 
 ## Pistas de pesquisa
 
-Não foram conferidas na formação desta versão e não são precedentes verificados. Pesquise o teor e a situação atual em fonte oficial.
+Não foram conferidas na formação desta versão e não são precedentes verificados. Pesquise o teor e a situação atual em fonte oficial. Abra o enunciado ou o acórdão no portal do tribunal: site jurídico privado serve só para localizá-lo. O que não for aberto entra na resposta marcado como não conferido, ou não entra.
 
 - STJ, Súmula 231: atenuante e pena abaixo do mínimo legal.
 - STJ, Súmula 443: fundamentação do aumento na terceira fase do roubo.

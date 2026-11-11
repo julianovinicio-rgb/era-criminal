@@ -1,6 +1,6 @@
 # Trilha Criminal
 
-Versão 0.8.0, destinada a teste privado e à futura distribuição aos alunos da Trilha Criminal.
+Versão 0.8.1, destinada a teste privado e à futura distribuição aos alunos da Trilha Criminal.
 
 O plugin reúne oito habilidades independentes. Use a função correspondente ao pedido, sem impor uma sequência obrigatória ou iniciar atividades não solicitadas.
 
@@ -79,3 +79,4 @@ Autoria: Juliano Negreiros. Uso e distribuição sujeitos à autorização do ti
 - **0.6.0:** ampliação de cobertura. Peças Defensivas ganha o módulo de justiça negociada (acordo de não persecução penal, transação e suspensão condicional do processo) e amplia os de júri e de execução penal; Preparação de Audiência ganha o módulo de plenário do júri; Apelação, Habeas Corpus e Recursos nos Tribunais Superiores ganham o módulo de sustentação oral.
 - **0.7.0:** um exemplo fictício de entrega em cada habilidade, guia de início para quem instala o plugin e arquivo de condições de uso.
 - **0.8.0:** nova habilidade Cálculos Penais, com script próprio para prescrição, prazos processuais, pena e execução, e remissões a ela nas demais habilidades.
+- **0.8.1:** correções na habilidade Cálculos Penais depois da primeira execução dos testes: o retrato datado da lei não vale como conferência da execução, a descrição passa a citar dosimetria, e súmula ou julgado só entra a partir do portal do tribunal.

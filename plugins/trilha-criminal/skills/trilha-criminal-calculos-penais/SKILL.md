@@ -1,6 +1,6 @@
 ---
 name: trilha-criminal-calculos-penais
-description: "Calcula, com memória conferível, prescrição penal, prazos processuais, aritmética de pena e requisitos temporais da execução (progressão, livramento, remição, detração e término de pena) em casos criminais brasileiros. Use quando o usuário pedir uma conta de datas, prazos, frações ou penas, quiser conferir cálculo de sentença, de cartório ou do juízo da execução, ou perguntar se um crime prescreveu, quando vence um prazo já identificado ou quando o cliente atinge o requisito temporal de um benefício. Executa script próprio para a aritmética; prazo, fração, marcos e lei aplicável são conferidos em fonte oficial antes da conta. Não escolhe o recurso cabível, não redige peça e não substitui o cálculo homologado."
+description: "Calcula, com memória conferível, prescrição penal, prazos processuais, dosimetria e aritmética de pena, e requisitos temporais da execução (progressão, livramento, remição, detração e término de pena) em casos criminais brasileiros. Use quando o usuário pedir uma conta de datas, prazos, frações ou penas, quiser conferir a conta da dosimetria de uma sentença ou acórdão, o cálculo de cartório ou o do juízo da execução, ou perguntar se um crime prescreveu, quando vence um prazo já identificado ou quando o cliente atinge o requisito temporal de um benefício. Executa script próprio para a aritmética; prazo, fração, marcos e lei aplicável são conferidos em fonte oficial antes da conta. Não escolhe o recurso cabível, não redige peça e não substitui o cálculo homologado."
 ---
 
 # Trilha Criminal Cálculos Penais
@@ -28,11 +28,15 @@ Funcione de forma autônoma ou a serviço de outra habilidade da Trilha. Quando 
 
 Pergunta simples sobre a regra, como "qual o prazo da apelação?", não exige o script: responda com o dispositivo conferido. O script entra quando há data para somar, fração para aplicar ou períodos para comparar.
 
+Conferir a conta de uma dosimetria é trabalho desta habilidade mesmo quando parece simples. Duas ou três frações em sequência já produzem erro de cabeça, e a divergência com a decisão precisa de memória que o advogado consiga refazer.
+
 ## Regras permanentes
 
 - **Nenhuma conta de cabeça.** Soma de datas, fração de pena, contagem de dias e conversão entre anos, meses e dias passam pelo script. Se o ambiente não executa código, veja a etapa 3.
 - **Nenhuma entrada presumida.** Data de intimação, publicação, recebimento da denúncia, trânsito em julgado, nascimento, prisão e soltura vêm de documento identificado. Faltando o documento, não há resultado definitivo: há cenário condicional, com a condição escrita, ou há pedido do dado.
 - **Nenhum número legal de memória.** Prazo prescricional, fração de progressão, razão de remição, prazo recursal e forma de contagem são lidos na execução, conforme [Conferência legislativa](references/conferencia-legislativa.md), com atenção à redação vigente na data do fato. As tabelas desta habilidade são retratos datados que orientam a leitura e não a substituem.
+- **Retrato não é conferência.** A data que aparece nas tabelas é a da formação desta habilidade, e não a da sua execução. Só escreva que um dispositivo foi conferido se você o abriu em fonte oficial agora. Se nenhuma fonte oficial abrir, faça a conta com o texto do retrato e registre na nota: `não reconferido nesta execução; texto do retrato da habilidade, datado de dd/mm/aaaa`. Nunca troque essa fórmula por "conferido no Planalto".
+- **Súmula e julgado só de fonte oficial.** Site jurídico privado, blog e resumo de busca servem para localizar o enunciado ou o acórdão, não para afirmá-lo. O que entra na resposta foi aberto no portal do tribunal nesta execução, com classe, número e data, ou vem marcado como não conferido. As pistas de pesquisa das referências seguem a mesma regra.
 - **Um cenário por premissa controvertida.** Se o termo inicial, a fração ou a data-base admite mais de uma leitura, rode cada uma, identifique a premissa de cada resultado e diga qual é a leitura defensiva sustentável e qual é a mais provável de ser adotada pelo juízo.
 - **O resultado não é mais certo do que a entrada mais fraca.** Uma data informada pelo usuário sem documento contamina toda a conta, e a entrega diz isso.
 - **Cálculo oficial se confere, não se copia.** Havendo cálculo do cartório, da sentença ou do juízo da execução, compare, localize a diferença e explique a causa, em vez de apresentar apenas outro total.
@@ -63,7 +67,7 @@ Pergunte apenas pelo dado que impede a conta. Com o restante, avance em cenário
 
 ## 2. Conferir a regra
 
-Leia a referência do tipo de conta e confira na fonte oficial os dispositivos que definem cada entrada. Registre dispositivo, fonte aberta e data, para a nota ao advogado.
+Leia a referência do tipo de conta e confira na fonte oficial os dispositivos que definem cada entrada. Registre dispositivo, fonte aberta e data, para a nota ao advogado. Se o Planalto não abrir, tente a fonte oficial alternativa prevista na conferência legislativa. Se nenhuma abrir, a conta segue com o texto do retrato, e o dispositivo vai para a nota como não reconferido.
 
 Compare a data do fato com a data de cada alteração legislativa relevante. Regra penal mais gravosa não alcança fato anterior, e a mais benéfica alcança. Se duas redações disputam a incidência, cada uma vira um cenário.
 
@@ -97,6 +101,8 @@ Não transforme o resultado em afirmação jurídica. "O prazo se esgotou em tal
 
 Entregue, nesta ordem: a resposta em uma ou duas frases, com a urgência se houver; o quadro de entradas com as fontes; a memória de cálculo, que pode ser a gerada pelo script, enxugada ao que importa; os cenários lado a lado quando houver mais de um; e a nota ao advogado.
 
-A nota ao advogado registra os dispositivos conferidos, com fonte e data, as entradas sem documento, as premissas de cada cenário, a comparação com o cálculo oficial quando existir e as pendências, no formato `[CONFIRMAR: data da intimação do defensor]`.
+A nota ao advogado registra os dispositivos conferidos, com fonte e data, os que não foram reconferidos, as entradas sem documento, as premissas de cada cenário, a comparação com o cálculo oficial quando existir e as pendências, no formato `[CONFIRMAR: data da intimação do defensor]`. Súmula ou julgado citado traz o portal do tribunal em que foi aberto, ou a marca de não conferido.
+
+A nota existe também na resposta curta. Nesse caso bastam duas linhas: o que foi conferido, onde e quando, e o que não foi.
 
 Se a conta for para uma peça, o texto destinado ao juízo recebe apenas a demonstração necessária, com datas, operação e resultado. A memória completa e as ressalvas ficam na nota. Use um dos estados de entrega do núcleo comum e nenhum mais otimista do que a conferência feita.

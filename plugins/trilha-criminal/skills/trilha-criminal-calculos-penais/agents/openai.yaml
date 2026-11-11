@@ -1,6 +1,6 @@
 interface:
   display_name: "Trilha Criminal Cálculos Penais"
-  short_description: "Prescrição, prazos, pena e execução com memória de cálculo"
-  default_prompt: "Use $trilha-criminal-calculos-penais para calcular [prescrição, prazo, pena ou requisito de execução] no caso de [cliente], com as entradas conferidas nos documentos e a memória de cálculo."
+  short_description: "Prescrição, prazos, dosimetria e execução com memória de cálculo"
+  default_prompt: "Use $trilha-criminal-calculos-penais para calcular [prescrição, prazo, dosimetria ou requisito de execução] no caso de [cliente], com as entradas conferidas nos documentos e a memória de cálculo."
 policy:
   allow_implicit_invocation: true

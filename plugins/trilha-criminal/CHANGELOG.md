@@ -2,6 +2,18 @@
 
 As versões anteriores à 0.4.1 estão resumidas no histórico do [README](README.md).
 
+## 0.8.1
+
+Correções na habilidade Cálculos Penais, a partir da primeira execução dos casos de teste, em 11/11/2026. O script não mudou.
+
+- O retrato datado das referências não pode ser apresentado como conferência da execução. A regra entra no `SKILL.md` e na abertura de cada retrato, com a fórmula a usar na nota quando nenhuma fonte oficial abrir. Motivo: em um dos casos, a resposta afirmou conferência no Planalto sem ter aberto o site.
+- A descrição da habilidade passa a citar dosimetria e a conferência da conta de sentença ou acórdão. Motivo: o pedido de conferir a conta da pena não a acionou. Mudança de comportamento: a habilidade tende a entrar em mais pedidos sobre dosimetria. A crítica jurídica da dosimetria continua em Recurso de Apelação e em Peças Defensivas.
+- Súmula e julgado só entram na resposta a partir do portal do tribunal, ou marcados como não conferidos. Site jurídico privado serve para localizar. Motivo: quase todas as respostas citaram julgados por sites privados.
+- A nota ao advogado passa a ser exigida também na resposta curta, em duas linhas.
+- Pendência conhecida, não tratada nesta versão: o caso de teste A8, de recurso contra decisão de relator do STJ, não acionou Recursos nos Tribunais Superiores.
+- Estas correções ainda não foram testadas em conversa.
+- Fora do pacote: `testes/casos-de-teste.md` registra a execução de nove casos na 0.8.0 e os achados.
+
 ## 0.8.0
 
 Nova habilidade e primeiro script do pacote.

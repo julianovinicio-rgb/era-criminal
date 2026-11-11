@@ -20,6 +20,8 @@ Sem a certidão de intimação, não há termo final: há simulação condiciona
 
 Lidos no Planalto em 11/11/2026. É um retrato para orientar a leitura e não dispensa a conferência na execução.
 
+A data acima é a da formação desta habilidade, e não a da sua execução. Não a apresente como conferência sua. Dispositivo que você não abrir agora em fonte oficial vai para a nota como `não reconferido nesta execução; texto do retrato da habilidade, datado de 11/11/2026`.
+
 | Dispositivo | Conteúdo no retrato |
 |---|---|
 | CPP, art. 798, caput | Os prazos são contínuos e peremptórios e não se interrompem por férias, domingo ou feriado |
@@ -80,7 +82,7 @@ Decadência, prescrição, duração da pena, período de prova e prazo de pris�
 
 ## Pistas de pesquisa
 
-Não foram conferidas na formação desta versão e não são precedentes verificados. Pesquise o teor e a situação atual em fonte oficial.
+Não foram conferidas na formação desta versão e não são precedentes verificados. Pesquise o teor e a situação atual em fonte oficial. Abra o enunciado ou o acórdão no portal do tribunal: site jurídico privado serve só para localizá-lo. O que não for aberto entra na resposta marcado como não conferido, ou não entra.
 
 - STF, Súmula 310: intimação na sexta-feira e início do prazo.
 - STF, Súmula 710: no processo penal, os prazos contam-se da data da intimação.

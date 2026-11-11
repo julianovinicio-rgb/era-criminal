@@ -22,6 +22,8 @@ Não use o último cálculo do sistema como entrada sem conferir a data de corte
 
 Lidos no Planalto em 11/11/2026, na Lei de Execução Penal e no Código Penal compilado. É um retrato para orientar a leitura. Não dispensa a conferência na execução, e aqui a conferência é indispensável: o art. 112 da LEP foi alterado duas vezes em 2026.
 
+A data acima é a da formação desta habilidade, e não a da sua execução. Não a apresente como conferência sua. Dispositivo que você não abrir agora em fonte oficial vai para a nota como `não reconferido nesta execução; texto do retrato da habilidade, datado de 11/11/2026`.
+
 ### Progressão de regime: LEP, art. 112
 
 | Parte | Conteúdo no retrato | Redação |
@@ -98,7 +100,7 @@ Localize a diferença antes de pedir a retificação. Rode o script com as entra
 
 ## Pistas de pesquisa
 
-Não foram conferidas na formação desta versão e não são precedentes verificados. Pesquise o teor e a situação atual em fonte oficial.
+Não foram conferidas na formação desta versão e não são precedentes verificados. Pesquise o teor e a situação atual em fonte oficial. Abra o enunciado ou o acórdão no portal do tribunal: site jurídico privado serve só para localizá-lo. O que não for aberto entra na resposta marcado como não conferido, ou não entra.
 
 - STF, Súmulas Vinculantes 26 e 56: progressão em crime hediondo e falta de vaga em regime adequado.
 - STF, Súmula 715: pena unificada e base de cálculo dos benefícios.

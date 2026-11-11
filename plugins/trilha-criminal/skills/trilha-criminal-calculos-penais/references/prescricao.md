@@ -18,6 +18,8 @@ Faltando resposta a alguma delas, a conta é condicional e a condição é escri
 
 Lidos no Planalto, na versão compilada do Código Penal, em 11/11/2026. É um retrato para orientar a leitura. Não dispensa a conferência na execução, feita conforme [Conferência legislativa](conferencia-legislativa.md), nem a análise da redação vigente na data do fato.
 
+A data acima é a da formação desta habilidade, e não a da sua execução. Não a apresente como conferência sua. Dispositivo que você não abrir agora em fonte oficial vai para a nota como `não reconferido nesta execução; texto do retrato da habilidade, datado de 11/11/2026`.
+
 | Dispositivo | Conteúdo no retrato | Atenção |
 |---|---|---|
 | Art. 109 | Antes do trânsito, o prazo regula-se pelo máximo da pena cominada: 20 anos se superior a 12; 16 se superior a 8 e não excede 12; 12 se superior a 4 e não excede 8; 8 se superior a 2 e não excede 4; 4 se igual a 1 ano ou, sendo superior, não excede 2; 3 anos se inferior a 1 ano | O inciso VI tem redação da Lei 12.234/2010. Para fato anterior, confira a redação da época |
@@ -67,7 +69,7 @@ Suspensão por tempo indeterminado é informada com `retomada` vazia. Se houver 
 
 ## Pistas de pesquisa
 
-Não foram conferidas na formação desta versão. Servem para orientar a busca em fonte oficial e não são precedentes verificados. Pesquise o teor e a situação atual de cada uma antes de usar.
+Não foram conferidas na formação desta versão. Servem para orientar a busca em fonte oficial e não são precedentes verificados. Pesquise o teor e a situação atual de cada uma antes de usar. Abra o enunciado ou o acórdão no portal do tribunal: site jurídico privado serve só para localizá-lo. O que não for aberto entra na resposta marcado como não conferido, ou não entra.
 
 - STF, Súmula 146: prescrição pela pena concretizada quando não há recurso da acusação.
 - STF, Súmula 497: no crime continuado, prescrição pela pena imposta, sem o acréscimo da continuação.

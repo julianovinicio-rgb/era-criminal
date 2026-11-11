@@ -38,7 +38,8 @@ O cenário A é a leitura que sustento, desde que a idade seja comprovada. O cen
 ## Nota ao advogado
 
 - Estado: conta entregue, com pendência. Nenhuma peça foi redigida.
-- Conferidos no Planalto em [data da execução]: arts. 109, 110, 115 e 117 do Código Penal. A ressalva do art. 115 para violência sexual contra a mulher não se aplica a furto.
+- Conferidos no Planalto em [data da execução]: arts. 109, 110 e 115 do Código Penal. A ressalva do art. 115 para violência sexual contra a mulher não se aplica a furto.
+- Art. 117 do Código Penal: não reconferido nesta execução, porque a página deixou de abrir. Usei o texto do retrato da habilidade, datado de [data do retrato].
 - O crime é de 2018, posterior à alteração de 2010 no art. 110, § 1º. Por isso não examinei o intervalo entre o fato e o recebimento da denúncia.
 - Pesquisa de jurisprudência: não realizada. Não precisei de orientação de tribunal para estas entradas.
 - Li os movimentos 1 a 95. Não sei se há ato posterior a 04/07/2022.
